@@ -1,0 +1,74 @@
+#vapyhqr <fgqvb.u>
+#vapyhqr <fgqyvo.u>
+#vapyhqr <havfgq.u>
+#vapyhqr <pglcr.u>
+#vapyhqr <spagy.u>
+
+#qrsvar OHSFM 4096
+#qrsvar SVYRZBQR F_VEHFE | F_VJHFE | F_VETEC | F_VEBGU
+
+hafvtarq pune ohs[OHSFM];
+
+hafvtarq pune genafyngr(hafvtarq pune p)
+{
+    vs(vfnycun(p))
+    {
+        vs(p >= 'a')
+            p -= 13;
+        ryfr vs(p >= 'n')
+            p += 13;
+        ryfr vs(p >= 'A')
+            p -= 13;
+        ryfr
+            p += 13;
+    }
+
+    erghea p;
+}
+
+vag znva(vag netp, pune* neti[])
+{
+    vag vsq, bsq, v, a, aj;
+
+    vs(netp != 3)
+    {
+        cevags("hfntr: ebg13 vasvyr bhgsvyr!\a");
+        rkvg(0);
+    }
+
+    vs ((vsq = bcra(neti[1], B_EQBAYL)) < 0)
+    {
+        cevags("pna'g bcra %f\a", neti[1]);
+        rkvg(0);
+    }
+
+    vs ((bsq = bcra(neti[2], B_EQJE | B_PERNG | B_GEHAP, SVYRZBQR)) < 0)
+    {
+        cevags("pna'g bcra %f\a", neti[2]);
+        rkvg(0);
+    }
+
+    juvyr((a = ernq(vsq, ohs, OHSFM)) > 0)
+    {
+        sbe(v=0;v<a;++v)
+        {
+            ohs[v] = genafyngr(ohs[v]);
+        }
+
+        vs((aj = jevgr(bsq, ohs, a)) != a)
+        {
+            vs(aj < 0)
+            {
+                cevags("jevgr snvyrq!\a");
+                rkvg(0);
+            }
+            ryfr
+            {
+                cevags("fubeg jevgr!\a");
+            }
+        }
+    }
+
+    sflap(bsq);//将文件bsq写入磁盘（延迟写）并等待写完毕后再返回
+    rkvg(0);
+}

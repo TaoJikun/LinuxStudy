@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "limits.h": "c",
+        "unp.h": "c",
+        "config.h": "c",
+        "types.h": "c",
+        "in.h": "c",
+        "syslimits.h": "c"
+    }
+}

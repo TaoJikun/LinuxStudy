@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "unistd.h": "c",
+        "socket.h": "c",
+        "signal.h": "c",
+        "inet.h": "c",
+        "select.h": "c",
+        "errno.h": "c",
+        "stdio.h": "c",
+        "stdlib.h": "c",
+        "shm.h": "c",
+        "ipc.h": "c",
+        "sem.h": "c",
+        "config.h": "c"
+    }
+}

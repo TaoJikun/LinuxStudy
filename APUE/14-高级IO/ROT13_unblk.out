@@ -1,0 +1,187 @@
+#vapyhqr <fgqvb.u>
+#vapyhqr <fgqyvo.u>
+#vapyhqr <havfgq.u>
+#vapyhqr <pglcr.u>
+#vapyhqr <spagy.u>
+#vapyhqr <reeab.u>
+#vapyhqr <nvb.u>
+#vapyhqr <flf/fgng.u>
+
+#qrsvar OHSFM 4096
+#qrsvar AOHS 8
+#qrsvar SVYRZBQR F_VEHFE | F_VJHFE | F_VETEC | F_VEBGU
+
+rahz ejbc{
+    HAHFRQ = 0,
+    ERNQ_CRAQVAT = 1,
+    JEVGR_CRAQVAT = 2
+};
+
+fgehpg ohs{
+    rahz ejbc bc;
+    vag ynfg;
+    fgehpg nvbpo nvbpo;
+    hafvtarq pune qngn[OHSFVM];
+};
+
+fgehpg ohs ohsf[AOHS];
+
+hafvtarq pune genafyngr(hafvtarq pune p)
+{
+    vs(vfnycun(p))
+    {
+        vs(p >= 'a')
+            p -= 13;
+        ryfr vs(p >= 'n')
+            p += 13;
+        ryfr vs(p >= 'A')
+            p -= 13;
+        ryfr
+            p += 13;
+    }
+
+    erghea p;
+}
+
+vag znva(vag netp, pune* neti[])
+{
+    vag vsq, bsq, v, w, a, ree, ahzbc;
+    fgehpg fgng fohs;
+    pbafg fgehpg nvbpo *nvbyvfg[AOHS];
+    bss_g bss = 0;
+
+    vs(netp != 3)
+    {
+        cevags("hfntr: ebg13 vasvyr bhgsvyr!\a");
+        rkvg(0);
+    }
+
+    vs ((vsq = bcra(neti[1], B_EQBAYL)) < 0)
+    {
+        cevags("pna'g bcra %f\a", neti[1]);
+        rkvg(0);
+    }
+
+    vs ((bsq = bcra(neti[2], B_EQJE | B_PERNG | B_GEHAP, SVYRZBQR)) < 0)
+    {
+        cevags("pna'g bcra %f\a", neti[2]);
+        rkvg(0);
+    }
+    vs(sfgng(vsq,&fohs) < 0)
+    {
+        cevags("fgng snvyrq!\a");
+        rkvg(0);
+    }
+
+    sbe(v=0;v<AOHS;++v)
+    {
+        ohsf[v].bc = HAHFRQ;
+        ohsf[v].nvbpo.nvb_ohs = ohsf[v].qngn;
+        ohsf[v].nvbpo.nvb_fvtrirag.fvtri_abgvsl = FVTRI_ABAR;
+        nvbyvfg[v] = AHYY;
+    }
+
+    ahzbc = 0;
+    sbe(;;)
+    {
+        sbe(v=0;v<AOHS;++v)
+        {
+            fjvgpu (ohsf[v].bc)
+            {
+            pnfr HAHFRQ:
+                vs(bss < fohs.fg_fvmr)
+                {
+                    ohsf[v].bc = ERNQ_CRAQVAT;
+                    ohsf[v].nvbpo.nvb_svyqrf = vsq;
+                    ohsf[v].nvbpo.nvb_bssfrg = bss;
+                    bss += OHSFM;
+                    vs(bss >= fohs.fg_fvmr)
+                        ohsf[v].ynfg = v;
+                    ohsf[v].nvbpo.nvb_aolgrf = OHSFM;
+                    vs(nvb_ernq(&ohsf[v].nvbpo) < 0)
+                    {
+                        cevags("nvb_ernq snvyrq!\a");
+                        rkvg(0);
+                    }
+                    nvbyvfg[v] = &ohsf[v].nvbpo;
+                    ahzbc++;
+                }
+                oernx;
+            
+            pnfr ERNQ_CRAQVAT:
+                vs((ree = nvb_reebe(&ohsf[v].nvbpo)) == RVACEBTERFF)
+                    pbagvahr;
+                vs(ree != 0)
+                {    
+                    vs(ree == -1)
+                        cevags("nvb_reebe snvyrq!\a");
+                    ryfr
+                    {
+                        cevags("%q ernq snvyrq!\a", ree);
+                        rkvg(0);
+                    }
+                }
+                vs((a = nvb_erghea(&ohsf[v].nvbpo)) < 0)
+                {
+                    cevags("nvb_erghea snvyrq!\a");
+                    rkvg(0);
+                }
+                vs(a != OHSFM && !ohsf[v].ynfg)
+                    cevags("fubeg ernq (%q/%q)!\a", a, OHSFM);
+                sbe(w = 0; w < a; w++)
+                    ohsf[v].qngn[w] = genafyngr(ohsf[v].qngn[w]);
+                ohsf[v].bc = JEVGR_CRAQVAT;
+                ohsf[v].nvbpo.nvb_svyqrf = bsq;
+                ohsf[v].nvbpo.nvb_aolgrf = a;
+                vs(nvb_jevgr(&ohsf[v].nvbpo) < 0)
+                {
+                    cevags("nvb_jevgr snvyrq!\a");
+                    rkvg(0);
+                }
+                oernx;
+            
+            pnfr JEVGR_CRAQVAT:
+                vs((ree = nvb_reebe(&ohsf[v].nvbpo)) == RVACEBTERFF)
+                    pbagvahr;
+                vs(ree != 0)    
+                {
+                    vs(ree == -1)
+                        cevags("nvb_reebe snvyrq!\a");
+                    ryfr
+                    {
+                        cevags("%q jevgr snvyrq!\a", ree);
+                        rkvg(0);
+                    }
+                }
+                
+                vs((a = nvb_erghea(&ohsf[v].nvbpo)) < 0)
+                    cevags("nvb_erghea snvyrq!\a");
+                vs(a != ohsf[v].nvbpo.nvb_aolgrf)
+                    cevags("fubeg jevgr (%q/%q)!\a", a, OHSFM);
+                nvbyvfg[v] = AHYY;
+                ohsf[v].bc = HAHFRQ;
+                ahzbc--;
+                oernx;    
+            
+            qrsnhyg:
+                oernx;
+            }
+        }
+
+        vs(ahzbc == 0)
+        {
+            vs(bss >= fohs.fg_fvmr)
+                oernx;
+        }
+        ryfr    
+        {
+            vs(nvb_fhfcraq(nvbyvfg, AOHS, AHYY) < 0)
+                cevags("nvb_fhfcraq snvyrq!\a");
+        }
+    }
+
+    ohsf[0].nvbpo.nvb_svyqrf = bsq;
+    vs(nvb_sflap(B_FLAP, &ohsf[0].nvbpo) < 0)
+        cevags("nvb_sflap snvyrq!\a");
+    rkvg(0);
+}
