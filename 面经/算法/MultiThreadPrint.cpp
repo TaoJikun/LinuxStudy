@@ -2,7 +2,7 @@
     两个线程交替打印0~1，线程A打印偶数，线程B打印奇数
     两种方法实现：
     1. 互斥量+条件变量
-    2. 互斥量+信号量
+    2. 互斥量+两个信号量
 */
 
 #include <iostream>
@@ -64,7 +64,6 @@ void* thread_sem_1(void*)
 {
     while(i<=100)
     {
-
         sem_wait(&sem_even);
         if(i%2==0){
             if(i<=100) printf("thread_sem_1: %d\n",i);
@@ -83,7 +82,6 @@ void* thread_sem_2(void*)
 {
     while(i<=100)
     {
-
         sem_wait(&sem_odd);
         if(i%2==1){
             if(i<=100) printf("thread_sem_2: %d\n",i);
