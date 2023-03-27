@@ -29,13 +29,13 @@ Singleton1* Singleton1::m_pInstance = new Singleton1();
 class Singleton2{
 private:
     Singleton2() {}
-    Singleton2(const Singleton1 &rhs) {}
+    Singleton2(const Singleton2 &rhs) {}
     Singleton2& operator=(const Singleton2 &rhs) {}
 
     static Singleton2* m_pInstance;
 
 public:
-    Singleton2* GetInstance()
+    static Singleton2* GetInstance()
     {
         if(m_pInstance == nullptr){
             m_pInstance = new Singleton2();
@@ -69,7 +69,7 @@ public:
         pthread_mutex_destroy(&m_mutex);
     }
 
-    Singleton3* GetInstance()
+    static Singleton3* GetInstance()
     {
         //当后续单体实例已经创建后，其实就没必要对这里进行加锁了
         pthread_mutex_lock(&m_mutex);
@@ -105,7 +105,7 @@ public:
         pthread_mutex_destroy(&m_mutex);
     }
 
-    Singleton4* GetInstance()
+    static Singleton4* GetInstance()
     {
         
         if(m_pInstance == nullptr)
@@ -145,7 +145,7 @@ public:
         pthread_mutex_destroy(&m_mutex);
     }
 
-    Singleton5* GetInstance()
+    static Singleton5* GetInstance()
     {
         if(m_pInstance == nullptr)
         {
