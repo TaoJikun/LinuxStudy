@@ -39,7 +39,7 @@ void* WheelProducer(void*)
     while(1)
     {
        pthread_mutex_lock(&wheel);
-       while(vctWheel.size()>20)
+       while(vctWheel.size()>=20)
        {
           pthread_cond_wait(&wheelCon,&wheel);
        }
@@ -59,7 +59,7 @@ void* CycleConsumer(void*)
          int bodyNum = vctBody.size();
          pthread_mutex_lock(&wheel);
          int wheelNum = vctWheel.size();
-         bool isContinue = bodyNum>0&&wheelNum>2;
+         bool isContinue = bodyNum>0&&wheelNum>=2;
          if(!isContinue)
          {
              pthread_mutex_unlock(&body);
