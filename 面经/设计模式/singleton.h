@@ -89,6 +89,8 @@ Singleton3* Singleton3::m_pInstance = nullptr;
 
 //懒汉模式，在生成单体实例时加锁
 //多线程不安全，可能会创建多个实例，还可能存在下面说的非法访问内存的问题（不太确定是不是这样）
+//这个问题其实可以使用内存屏障解决
+//内存屏障：屏障点之前的指令必须都执行完之后才能执行屏障点之后的指令
 class Singleton4{
 private:
     Singleton4() {
@@ -115,6 +117,12 @@ public:
 	        //这时，可能在地址赋值后但未构造对象前，另一个线程进来检查不为空而直接返回，但实际上对象此时不能用
             pthread_mutex_lock(&m_mutex);
             m_pInstance = new Singleton4();
+            /*
+                //如果使用屏障，对象的构造总在屏障前完成，单例对象被赋值时对象一定被构造好了
+                Singleton4* tmp = new Singleton4();
+                barrier();
+                m_pInstance = tmp;
+            */
             pthread_mutex_unlock(&m_mutex);
         }
 
@@ -129,6 +137,7 @@ Singleton4* Singleton4::m_pInstance = nullptr;
 
 //懒汉模式，使用双检查+锁
 //线程安全
+//但其实如果被过度优化，也会出现Sigleton4中的问题
 class Singleton5{
     private:
     Singleton5() {
