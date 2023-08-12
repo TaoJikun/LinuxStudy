@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/consistenthash.hpp
+cstdlib
+-
+sstream
+-
+iostream
+-
+ctime
+-
+string
+-
+vector
+-
+set
+-
+map
+-
+
+/mnt/e/tencent/project/consistent_hash/gtest/src/main.cpp
+limits.h
+-
+gtest/gtest.h
+/mnt/e/tencent/project/consistent_hash/gtest/src/gtest/gtest.h
+consistenthash.hpp
+/mnt/e/tencent/project/consistent_hash/gtest/src/consistenthash.hpp
+unordered_set
+-
+

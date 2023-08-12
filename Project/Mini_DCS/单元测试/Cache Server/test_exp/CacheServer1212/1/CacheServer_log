@@ -1,0 +1,370 @@
+[2021-12-15 05:11:27][INFO][tid:9460][heartbeat_connect:226]connect with master 127.0.0.1:7000
+[2021-12-15 05:11:27][INFO][tid:9460][add_handler:274]receive ADD_CACHE commond from master
+[2021-12-15 05:11:30][INFO][tid:9460][add_handler:274]receive ADD_CACHE commond from master
+[2021-12-15 05:11:34][INFO][tid:9447][main:65]receive new connect
+[2021-12-15 05:11:34][INFO][tid:9447][WR_cfdHandler:262]add task to thread pool
+[2021-12-15 05:11:34][INFO][tid:9450][kvrespond_handler:176]the count of request is: 1
+[2021-12-15 05:11:34][INFO][tid:9450][kvrespond_handler:185]receive KEY_VALUE_RESPOND from client
+[2021-12-15 05:11:34][INFO][tid:9450][kvrespond_handler:186]{"data":{"flag":true,"key":"W5bQ1dro6Yi9sdRm8rSY","value":"39facyEdgX5lrLN55fk0K8q1n0wSM90cji2MKt9XV71576f5FmFd98FB3vhFsqWQa4c1f6Loj1pr3i19cHkcC87of3dFGxq24D4dwtCOo1QV6G5o8b46n0x10GPTw3SduuM276EoY9a71MXd4Lnqu84Lj4WiXbMne0d65ax65QmHvhO9UOp89E88E3I4Spg7iZ7u5mU9"},"type":1}
+[2021-12-15 05:11:34][INFO][tid:9450][kvrespond_handler:193]do backup task
+[2021-12-15 05:11:34][INFO][tid:9447][WR_cfdHandler:262]add task to thread pool
+[2021-12-15 05:11:34][INFO][tid:9451][kvrespond_handler:176]the count of request is: 2
+[2021-12-15 05:11:34][INFO][tid:9451][kvrespond_handler:185]receive KEY_VALUE_RESPOND from client
+[2021-12-15 05:11:34][INFO][tid:9451][kvrespond_handler:186]{"data":{"flag":true,"key":"F21RE976FP26W1Uy36Q5","value":"9mitc15Ze32076d9q80n6QR96Xp8j5SsfJE5xnF1wW9bjkM0uh364jQxi06R2DhrSc79Eh1mawWqs6nF1WvJfZxc5nQJA8k1gIe4KLo8QV36V1en8MrIrMLBr83y3MO9YcGuIhExjr0uj07139S6gyqjHrry0Zr147lf2Eb3P9i9xhNCmCOqnDM1bn8p5d1SQeeGUI64"},"type":1}
+[2021-12-15 05:11:34][INFO][tid:9451][kvrespond_handler:193]do backup task
+[2021-12-15 05:11:34][INFO][tid:9447][WR_cfdHandler:262]add task to thread pool
+[2021-12-15 05:11:34][INFO][tid:9452][kvrespond_handler:176]the count of request is: 3
+[2021-12-15 05:11:34][INFO][tid:9452][kvrespond_handler:185]receive KEY_VALUE_RESPOND from client
+[2021-12-15 05:11:34][INFO][tid:9452][kvrespond_handler:186]{"data":{"flag":true,"key":"rg2rtaDupZynRaJ626jS","value":"0sNVrYcj7FzXaAE5K29d1gRSCYnQCcIL8v00d0raz4wFF0CKl1jhdLn9nG98wUSe8ePMB8M8Q69u7vXSqk347DS4vbXtQGraa6L9H3O3o63E6sOw5dgFHs4MXTaU1171Tka38I2sS0L2QDGTSet1fbjpjY9x1T76t0fe44BvZg29GjDAw566AIE3zFD8osvQKVyJ3CXW"},"type":1}
+[2021-12-15 05:11:34][INFO][tid:9452][kvrespond_handler:193]do backup task
+[2021-12-15 05:11:34][INFO][tid:9447][WR_cfdHandler:262]add task to thread pool
+[2021-12-15 05:11:34][INFO][tid:9453][closeconnect:145]client[7] closed connection
+[2021-12-15 05:11:34][INFO][tid:9447][main:65]receive new connect
+[2021-12-15 05:11:34][INFO][tid:9447][WR_cfdHandler:262]add task to thread pool
+[2021-12-15 05:11:34][INFO][tid:9455][kvrespond_handler:176]the count of request is: 4
+[2021-12-15 05:11:34][INFO][tid:9455][kvrespond_handler:178]receive KEY_VALUE_RESPONDBK from other cache
+[2021-12-15 05:11:34][INFO][tid:9455][kvrespond_handler:179]{"data":{"flag":true,"key":"qNdF19s0JZS9ex18Yv0x","value":"bsmAlikmIS3TPJqY3QW1qQGq57i8v2Uf7vO9M22n3aFUOnnaS3uoAcXWqGyZ7AK601Q4aG87Y4q2fT4VKI2qV1bO279J75NIXYHVnBYR7gD65x92anW18beZIZZ1q7ayB962I2fUlC7m9gRTsuA49CpPQO2wx34LB6Opmm7EVUutu84j7VjEFb2d2CNq11y4Iw6P7R4e"},"type":11}
+[2021-12-15 05:11:35][INFO][tid:9447][main:65]receive new connect
+[2021-12-15 05:11:35][INFO][tid:9447][WR_cfdHandler:262]add task to thread pool
+[2021-12-15 05:11:35][INFO][tid:9457][kvrespond_handler:176]the count of request is: 5
+[2021-12-15 05:11:35][INFO][tid:9457][kvrespond_handler:185]receive KEY_VALUE_RESPOND from client
+[2021-12-15 05:11:35][INFO][tid:9457][kvrespond_handler:186]{"data":{"flag":true,"key":"9f491f32j69g4W3pE36Y","value":"oSxhp2PF1060ucm6gIMQ1q1B00o7VJOmK4ndZq980Wa6v1eJPpj36Lyz6a0AuMdpMy7hpuktq26Uv37vUs5K6mcQ9Q15xN0zG0TlWvhvPp8tn65836S5bO1W5Rbv16E7tz794mCavZ4pvKTh7CTyWB0X2ssX4rfWiz5pKbTAZOBjZ9CJwqjgZck37c38p1l23NfUFY7A"},"type":1}
+[2021-12-15 05:11:35][INFO][tid:9457][kvrespond_handler:193]do backup task
+[2021-12-15 05:11:35][INFO][tid:9447][WR_cfdHandler:262]add task to thread pool
+[2021-12-15 05:11:35][INFO][tid:9458][kvrespond_handler:176]the count of request is: 6
+[2021-12-15 05:11:35][INFO][tid:9458][kvrespond_handler:185]receive KEY_VALUE_RESPOND from client
+[2021-12-15 05:11:35][INFO][tid:9458][kvrespond_handler:186]{"data":{"flag":true,"key":"J6SPo3r6l7v8ZT3iBSm5","value":"y7ZzPejOyo286DCdw54J96PTct1tK67qJF9AC7X54n7xCtUvS1Q0YM475ruwhM1LLn68b5Hp5vV9IKf7AuEwfh0rgQ5I0702Ts5JmaQ8KbZjHT7Uyk3sOz0eOR04OY5OjyT1N023bfauAtPoHSinRbaHFyHxNdcC2p10Jk37F2I29x87V9UrIsT39rtF4SGXkcMmVF88"},"type":1}
+[2021-12-15 05:11:35][INFO][tid:9458][kvrespond_handler:193]do backup task
+[2021-12-15 05:11:35][INFO][tid:9447][WR_cfdHandler:262]add task to thread pool
+[2021-12-15 05:11:35][INFO][tid:9449][closeconnect:145]client[8] closed connection
+[2021-12-15 05:11:35][INFO][tid:9447][main:65]receive new connect
+[2021-12-15 05:11:35][INFO][tid:9447][WR_cfdHandler:262]add task to thread pool
+[2021-12-15 05:11:35][INFO][tid:9447][WR_cfdHandler:262]add task to thread pool
+[2021-12-15 05:11:35][INFO][tid:9452][kvrespond_handler:176]the count of request is: 7
+[2021-12-15 05:11:35][INFO][tid:9452][kvrespond_handler:178]receive KEY_VALUE_RESPONDBK from other cache
+[2021-12-15 05:11:35][INFO][tid:9452][kvrespond_handler:179]{"data":{"flag":true,"key":"5XA9Kl14jhsTCfyI16M6","value":"35erKl96Gsci1zoWZi5t5MnzLaV08HKxr3h9S8VdH1NOBM8xr36938R66gw8VLEvY4P5sik31X9IyNeE7H15jAsTi11p1znDMk479Yom9x19rVhi938jE6b9os9OXElag6hZa66QPU3Uv1M8qd1N624VLG6v7h9GHj515SOY459i1R8yohH6r95IS15fhhY8o9vx27Ba"},"type":11}
+[2021-12-15 05:11:35][INFO][tid:9451][closeconnect:145]client[8] closed connection
+[2021-12-15 05:11:35][INFO][tid:9447][main:65]receive new connect
+[2021-12-15 05:11:35][INFO][tid:9447][WR_cfdHandler:262]add task to thread pool
+[2021-12-15 05:11:35][INFO][tid:9454][kvrespond_handler:176]the count of request is: 8
+[2021-12-15 05:11:35][INFO][tid:9454][kvrespond_handler:185]receive KEY_VALUE_RESPOND from client
+[2021-12-15 05:11:35][INFO][tid:9454][kvrespond_handler:186]{"data":{"flag":true,"key":"6sAsW9el5rQKe10dm150","value":"i5GKlaT8ph4pjJ25737n5m26Y5vdPLRj68E4j7saZZAb6x86l1eBfyc6S1TKQt4262x0M4g96Tu98e0NBjk39rwFF7bLJY3Jy9niE3mJ3t7S8x3ufp8Gz12eHxEm5t7R6vFZDtKyX7ODA5PZ4ZA065v8eYV1Du83r7twfkL3B3Y047LwgxPz83gFoi9rVEC1J8hXb2Qr"},"type":1}
+[2021-12-15 05:11:35][INFO][tid:9454][kvrespond_handler:193]do backup task
+[2021-12-15 05:11:35][INFO][tid:9447][WR_cfdHandler:262]add task to thread pool
+[2021-12-15 05:11:35][INFO][tid:9455][kvrespond_handler:176]the count of request is: 9
+[2021-12-15 05:11:35][INFO][tid:9455][kvrespond_handler:185]receive KEY_VALUE_RESPOND from client
+[2021-12-15 05:11:35][INFO][tid:9455][kvrespond_handler:186]{"data":{"flag":true,"key":"WXf6Dj1tJj1aeJCF96u1","value":"9HTlmwENVi1YTL3o9868rB819764D8f0a1Ot0DNC1U22XKAC703M0uasn0eUoD1U36dHys3eBfJ2gQ38MCDU39y7W70814hs942jUP06nZ620qr69EEQE8IQXYw86pp4vraZs2KvNazmRucgJyIrTbr9x74lj06L2c7482u545o9i0yd9eAz39I50mDLm7Wwj7a36lqx"},"type":1}
+[2021-12-15 05:11:35][INFO][tid:9455][kvrespond_handler:193]do backup task
+[2021-12-15 05:11:35][INFO][tid:9447][WR_cfdHandler:262]add task to thread pool
+[2021-12-15 05:11:35][INFO][tid:9456][closeconnect:145]client[8] closed connection
+[2021-12-15 05:11:36][INFO][tid:9447][main:65]receive new connect
+[2021-12-15 05:11:36][INFO][tid:9447][WR_cfdHandler:262]add task to thread pool
+[2021-12-15 05:11:36][INFO][tid:9458][kvrespond_handler:176]the count of request is: 10
+[2021-12-15 05:11:36][INFO][tid:9458][kvrespond_handler:185]receive KEY_VALUE_RESPOND from client
+[2021-12-15 05:11:36][INFO][tid:9458][kvrespond_handler:186]{"data":{"flag":true,"key":"4aKIvGBzw5Xoo0a7iPL1","value":"k6LbTOPz32eA60um0q2ua0o83I1KEm59pM4v185085E0cJjB52Z5hGaM635aOwY8nF832LklJ1a2zPQ4Z447YNA5sJK0yk0WIkZ50kcln9EIeV3R16B22FnMqAH2F577I5qotr9i5avga461vthQG4Ny1OfcoA606x04w9wjEG85jWq0JK096409q88TG8KSWhGp5mo1"},"type":1}
+[2021-12-15 05:11:36][INFO][tid:9458][kvrespond_handler:193]do backup task
+[2021-12-15 05:11:36][INFO][tid:9447][WR_cfdHandler:262]add task to thread pool
+[2021-12-15 05:11:36][INFO][tid:9447][main:65]receive new connect
+[2021-12-15 05:11:36][INFO][tid:9450][closeconnect:145]client[8] closed connection
+[2021-12-15 05:11:36][INFO][tid:9447][WR_cfdHandler:262]add task to thread pool
+[2021-12-15 05:11:36][INFO][tid:9452][kvrespond_handler:176]the count of request is: 11
+[2021-12-15 05:11:36][INFO][tid:9452][kvrespond_handler:178]receive KEY_VALUE_RESPONDBK from other cache
+[2021-12-15 05:11:36][INFO][tid:9452][kvrespond_handler:179]{"data":{"flag":true,"key":"f6imzm6Eld2FOo92R7ER","value":"3omAetXhsSTXY2Hk1FtwM4q6Bnt5e8cZ6kOcY8A2H2V0CoeUw6OORFTVpDbmv18P6a4T9P3riFVq1rK5r1w9WI04w9SmmdPXMbb868o00JCCD6PCRmAScc1I99ORGmV2Vj2awyGSZ8Nhj69vb79JI8pYAD8L3e0AHeLYWNBBW6pE1O19y1c1Xlg9RlbF4wmGtXy4ZyYm"},"type":11}
+[2021-12-15 05:11:36][INFO][tid:9447][main:65]receive new connect
+[2021-12-15 05:11:36][INFO][tid:9447][WR_cfdHandler:262]add task to thread pool
+[2021-12-15 05:11:36][INFO][tid:9454][kvrespond_handler:176]the count of request is: 12
+[2021-12-15 05:11:36][INFO][tid:9454][kvrespond_handler:185]receive KEY_VALUE_RESPOND from client
+[2021-12-15 05:11:36][INFO][tid:9454][kvrespond_handler:186]{"data":{"flag":true,"key":"5YhWEJ3paPWXNj0j0B64","value":"jxbzfzT63bCrW3sXSP37hV4KZlYtYd4684g1V8RJOUX1768AgZ09cp0M15ZSznAhv007PHvs7Ja010f83GQ9Kri65347hP8Pfa4G0B90L3dXq0bWKgi2632j05TN6d9zyFYpk5rE5rhARm76xoc6mpo4Ca2G487w4dTB9j7j184RgPv2Y6l1P86ZN2PBAKg9eYY2j3Gi"},"type":1}
+[2021-12-15 05:11:36][INFO][tid:9454][kvrespond_handler:193]do backup task
+[2021-12-15 05:11:36][INFO][tid:9447][WR_cfdHandler:262]add task to thread pool
+[2021-12-15 05:11:36][INFO][tid:9453][closeconnect:145]client[9] closed connection
+[2021-12-15 05:11:36][INFO][tid:9447][main:65]receive new connect
+[2021-12-15 05:11:36][INFO][tid:9447][WR_cfdHandler:262]add task to thread pool
+[2021-12-15 05:11:36][INFO][tid:9456][kvrespond_handler:176]the count of request is: 13
+[2021-12-15 05:11:36][INFO][tid:9456][kvrespond_handler:185]receive KEY_VALUE_RESPOND from client
+[2021-12-15 05:11:36][INFO][tid:9456][kvrespond_handler:186]{"data":{"flag":true,"key":"AVJR3iF21C0OlR4NoOer","value":"151S6onH0o357HR5c2KPD9N9x3K3swhxYsQmQKYo6125rU1kdjp9ZMbW9fV3W4V8HUG3l2TaN16ADhsA8c04Ff9aP1x17B5G25uVe9I922qBDGgraIu16vf136y00f8Zc5lWofUCFjsGFBN4jQUoIgMw3XNR9sUA9b4u9tK4y43I3064wLv6hf47pUXGG1nuFPMI9oMR"},"type":1}
+[2021-12-15 05:11:36][INFO][tid:9456][kvrespond_handler:193]do backup task
+[2021-12-15 05:11:37][INFO][tid:9447][WR_cfdHandler:262]add task to thread pool
+[2021-12-15 05:11:37][INFO][tid:9457][closeconnect:145]client[9] closed connection
+[2021-12-15 05:11:37][INFO][tid:9447][main:65]receive new connect
+[2021-12-15 05:11:37][INFO][tid:9447][WR_cfdHandler:262]add task to thread pool
+[2021-12-15 05:11:37][INFO][tid:9452][kvrespond_handler:176]the count of request is: 14
+[2021-12-15 05:11:37][INFO][tid:9452][kvrespond_handler:185]receive KEY_VALUE_RESPOND from client
+[2021-12-15 05:11:37][INFO][tid:9452][kvrespond_handler:186]{"data":{"flag":true,"key":"9df52xQ1Ou7B704NIse3","value":"b10R3u9995viwuZ0EwnmBVJ082vI6TQ0i3Mhj03QueB3RyY87FqcuTjR8WKq6I8V5e9uP7YfpfLcnkCV5eK278HCq08Zs5QD7y9481Cl5wqdg6098Ej9i9P3UCy9KE95y912N84xLJjuj5DEv4H101yN8xEfTMU17Pl491Q017031lm9T140y62i2iTx6Cu23w2a07at"},"type":1}
+[2021-12-15 05:11:37][INFO][tid:9452][kvrespond_handler:193]do backup task
+[2021-12-15 05:11:37][INFO][tid:9447][WR_cfdHandler:262]add task to thread pool
+[2021-12-15 05:11:37][INFO][tid:9450][closeconnect:145]client[9] closed connection
+[2021-12-15 05:11:37][INFO][tid:9447][main:65]receive new connect
+[2021-12-15 05:11:37][INFO][tid:9447][WR_cfdHandler:262]add task to thread pool
+[2021-12-15 05:11:37][INFO][tid:9449][kvrespond_handler:176]the count of request is: 15
+[2021-12-15 05:11:37][INFO][tid:9449][kvrespond_handler:185]receive KEY_VALUE_RESPOND from client
+[2021-12-15 05:11:37][INFO][tid:9449][kvrespond_handler:186]{"data":{"flag":true,"key":"9m67kKD7VhP5IoRmHF4r","value":"WAEUEg0IyGvAWYGmvd4d646G8RJpxV19yI67Y9kCajPTPtYG3C0t6FgxH4gnb53b9hYEyK4L25SXVxd7E8w8pA1lsAzi1DHZ663eGfW2934XuOr5o11r8K8o1We65au09i91yV28F11kmpesMCC7fvSkpK1slfQo69SJJ8L7KuOR22981I40Z9wo6d83517405D0VqRB"},"type":1}
+[2021-12-15 05:11:37][INFO][tid:9449][kvrespond_handler:193]do backup task
+[2021-12-15 05:11:37][INFO][tid:9447][WR_cfdHandler:262]add task to thread pool
+[2021-12-15 05:11:37][INFO][tid:9454][closeconnect:145]client[9] closed connection
+[2021-12-15 05:11:37][INFO][tid:9447][main:65]receive new connect
+[2021-12-15 05:11:37][INFO][tid:9447][WR_cfdHandler:262]add task to thread pool
+[2021-12-15 05:11:37][INFO][tid:9453][kvrespond_handler:176]the count of request is: 16
+[2021-12-15 05:11:37][INFO][tid:9453][kvrespond_handler:185]receive KEY_VALUE_RESPOND from client
+[2021-12-15 05:11:37][INFO][tid:9453][kvrespond_handler:186]{"data":{"flag":true,"key":"qT4B9489ZW373vIWAf23","value":"uWE21Dl0y7aH5d5255b7t07e8T6urKo5YMh7CGVaThyWGiAuk76W5F9GcL7VpwVp5cgb1rnmNuGkvOyax4fgRNz20w8D0Xy2eAG28GNV7uaSvfRRNH05vRK1h6V8I3XXu4QgFVnd60wZNI59OFh44gl68LIv3KkW9gnPq1H7vMa1mN1zLTiD8CY7vzixR8wM7k4IslRL"},"type":1}
+[2021-12-15 05:11:37][INFO][tid:9453][kvrespond_handler:193]do backup task
+[2021-12-15 05:11:37][INFO][tid:9447][WR_cfdHandler:262]add task to thread pool
+[2021-12-15 05:11:37][INFO][tid:9455][kvrespond_handler:176]the count of request is: 17
+[2021-12-15 05:11:37][INFO][tid:9455][kvrespond_handler:185]receive KEY_VALUE_RESPOND from client
+[2021-12-15 05:11:37][INFO][tid:9455][kvrespond_handler:186]{"data":{"flag":true,"key":"Bj4f1dUBWf9M9l0ilNCn","value":"Xp9mgWI679pn5eajKQtB6k925fRxAJVzW6V3e4wjbal6DnB7do2453C6ca579xb3K8bI5dz9Kq9e6W3NOO7hmu6o74V89I52sDWCxUnUqdw6A59Kx24DKB6ZRRK0j5iziYw35IKRoP5l9IR2S7gZez1S0doTn7KjKvOc4lu4m2w4L5wCwbs4Iry1Zps7ND4Udm6u0r1B"},"type":1}
+[2021-12-15 05:11:37][INFO][tid:9455][kvrespond_handler:193]do backup task
+[2021-12-15 05:11:38][INFO][tid:9447][WR_cfdHandler:262]add task to thread pool
+[2021-12-15 05:11:38][INFO][tid:9457][closeconnect:145]client[9] closed connection
+[2021-12-15 05:11:38][INFO][tid:9447][main:65]receive new connect
+[2021-12-15 05:11:38][INFO][tid:9447][WR_cfdHandler:262]add task to thread pool
+[2021-12-15 05:11:38][INFO][tid:9458][kvrespond_handler:176]the count of request is: 18
+[2021-12-15 05:11:38][INFO][tid:9458][kvrespond_handler:178]receive KEY_VALUE_RESPONDBK from other cache
+[2021-12-15 05:11:38][INFO][tid:9458][kvrespond_handler:179]{"data":{"flag":true,"key":"Pu27P47K6PnwvP2dDa6b","value":"0hK2VzT4k32t3edjcqHRyP3491nqjBbUDTY36s0YQEhX21MwJ63HyKh0b910gLeKcYgw9JsQXDc6J3Ug21mT9mQ0b0IQW9NoWgyIgOym7hSuuJVev4o1KSKMMeS8dy3x9b0b6P0ryx1GJ95zEHHCgYwak0Xe0b42bIEvgu55Wd22PYIfhxzxO4qycKL5Y3N5pilUZZTe"},"type":11}
+[2021-12-15 05:11:38][INFO][tid:9447][main:65]receive new connect
+[2021-12-15 05:11:38][INFO][tid:9447][WR_cfdHandler:262]add task to thread pool
+[2021-12-15 05:11:38][INFO][tid:9449][kvrespond_handler:176]the count of request is: 19
+[2021-12-15 05:11:38][INFO][tid:9449][kvrespond_handler:185]receive KEY_VALUE_RESPOND from client
+[2021-12-15 05:11:38][INFO][tid:9449][kvrespond_handler:186]{"data":{"flag":true,"key":"72H6pql84qSrSjSjEjH7","value":"g8636WyFHE4W4xc3hDzLMeW42fxQ1WIW4YCytaq49yHtiF0K7N6Yqiezn002oTy6N6ByNaqne2Vz52z0846q6B7yM91Sus90SwBXhCRB4kzeBnLF6STOQD0kgUAb9lonx7xsk2C0esDKMmq3513628BnZpbgzs16r24t9J6X6fnV3DFMu4YMM318kFLkRv6Xp2oAL2z3"},"type":1}
+[2021-12-15 05:11:38][INFO][tid:9449][kvrespond_handler:193]do backup task
+[2021-12-15 05:11:38][INFO][tid:9447][WR_cfdHandler:262]add task to thread pool
+[2021-12-15 05:11:38][INFO][tid:9451][kvrespond_handler:176]the count of request is: 20
+[2021-12-15 05:11:38][INFO][tid:9451][kvrespond_handler:185]receive KEY_VALUE_RESPOND from client
+[2021-12-15 05:11:38][INFO][tid:9451][kvrespond_handler:186]{"data":{"flag":true,"key":"MgSp2L092EtMFM1PKE2O","value":"9kK9tPDSiqc7dq2weA4v76l7hA55F8U0lrL081ji7Dx3twj54Hzru1Gz3h227SRVxIn8119yVJOFyCKl1GXBm755Hlaas8D9Ay48W5ZPLdxO11n4fOTviYfOU8Y9FVqjjhfW9yM9IzgrpH9INVukpO7lDSWxa1w6x8OvDjd39u55A44k9ok9YP2mI5B0rAXKE44434Wi"},"type":1}
+[2021-12-15 05:11:38][INFO][tid:9451][kvrespond_handler:193]do backup task
+[2021-12-15 05:11:38][INFO][tid:9447][WR_cfdHandler:262]add task to thread pool
+[2021-12-15 05:11:38][INFO][tid:9454][closeconnect:145]client[10] closed connection
+[2021-12-15 05:11:38][INFO][tid:9447][main:65]receive new connect
+[2021-12-15 05:11:38][INFO][tid:9447][WR_cfdHandler:262]add task to thread pool
+[2021-12-15 05:11:38][INFO][tid:9456][kvrespond_handler:176]the count of request is: 21
+[2021-12-15 05:11:38][INFO][tid:9456][kvrespond_handler:185]receive KEY_VALUE_RESPOND from client
+[2021-12-15 05:11:38][INFO][tid:9456][kvrespond_handler:186]{"data":{"flag":true,"key":"0485zY0M55e1SP7C6Vxk","value":"Uh57I7Xoqa7FD7Ba65EdGd7uU28reB8A6t10N01bMS5M2JT9mxLm4aw7169A04Yz5HCjBk9h9841XBgHz7lUe5fHvOEt20XNXcRWE256qEoYvegV2QVE263T56ZeireyL90hdWANrGh7xhu1Z37d725OzbhZwhr981KXc5N2C51q1380uw64hKK5c78zTGVjGy51jfmJ"},"type":1}
+[2021-12-15 05:11:38][INFO][tid:9456][kvrespond_handler:193]do backup task
+[2021-12-15 05:11:38][INFO][tid:9447][WR_cfdHandler:262]add task to thread pool
+[2021-12-15 05:11:38][INFO][tid:9455][closeconnect:145]client[10] closed connection
+[2021-12-15 05:11:38][INFO][tid:9447][main:65]receive new connect
+[2021-12-15 05:11:38][INFO][tid:9447][WR_cfdHandler:262]add task to thread pool
+[2021-12-15 05:11:38][INFO][tid:9452][kvrespond_handler:176]the count of request is: 22
+[2021-12-15 05:11:38][INFO][tid:9452][kvrespond_handler:185]receive KEY_VALUE_RESPOND from client
+[2021-12-15 05:11:38][INFO][tid:9452][kvrespond_handler:186]{"data":{"flag":true,"key":"14Ren4TvL7HR6a3m19yC","value":"VN0sh0857Rry1c1ZO1Xgq6a74RawB1Hu28MSdZm8ynU6kvT0z87q7jTj4XJS5Q3mmTXtdSz03WFj321U1laP3cn2odAh5sewbE7HDPi49Pe4X2Zwb72VYVN4v7tY3unVvhpU7Vu5S4zdmMUqki6oT38ivnuS1k3Fdd4gbFJmRf8W35Izbv0L2gID0nK0Rnb056p2h0pR"},"type":1}
+[2021-12-15 05:11:38][INFO][tid:9452][kvrespond_handler:193]do backup task
+[2021-12-15 05:11:39][INFO][tid:9447][WR_cfdHandler:262]add task to thread pool
+[2021-12-15 05:11:39][INFO][tid:9458][kvrespond_handler:176]the count of request is: 23
+[2021-12-15 05:11:39][INFO][tid:9458][kvrespond_handler:185]receive KEY_VALUE_RESPOND from client
+[2021-12-15 05:11:39][INFO][tid:9458][kvrespond_handler:186]{"data":{"flag":true,"key":"je33D5SkLZbdiaY3XF3y","value":"6qLBpBqe9wyP9MR58f3jLxR8kcKF8VeZUnRi7GjylD01e11m7VvZ26SS0Z84pwkxH2ZL1lbtdS3ZZ0f9YV8900H5IW99Vfs1duSQ0Wz4rWxe8v09YQ95sLqB3w7hr08V129eUHgZH3AowLYyu8sD50U2ySiuI1Mfx3WGkHnk9PkVr70LWXjTq6q9Qj6Ut8I5NAj0Y7Io"},"type":1}
+[2021-12-15 05:11:39][INFO][tid:9458][kvrespond_handler:193]do backup task
+[2021-12-15 05:11:39][INFO][tid:9447][WR_cfdHandler:262]add task to thread pool
+[2021-12-15 05:11:39][INFO][tid:9450][kvrespond_handler:176]the count of request is: 24
+[2021-12-15 05:11:39][INFO][tid:9450][kvrespond_handler:185]receive KEY_VALUE_RESPOND from client
+[2021-12-15 05:11:39][INFO][tid:9450][kvrespond_handler:186]{"data":{"flag":true,"key":"lagss2njrzI03BMZQE13","value":"gtLvq8P5y59j58LvpoU6Gn6eMm0NkI0Ovpof113sh5c6t6Uzd4N7HU24UOZ3lH7YZ5Xrp150868x8i7Cq88Rj0Tc2AcBg1RML0qN6h0FjijU4M3uT0b0MZEPnAinA3bYb4eW259zq3x1FRM07ubK4u2lv454aU0B7f7W595Z5f5hkL4cLa37Qg7rEFWB5V1Ke2nFl1tP"},"type":1}
+[2021-12-15 05:11:39][INFO][tid:9450][kvrespond_handler:193]do backup task
+[2021-12-15 05:11:39][INFO][tid:9447][WR_cfdHandler:262]add task to thread pool
+[2021-12-15 05:11:39][INFO][tid:9449][closeconnect:145]client[10] closed connection
+[2021-12-15 05:11:39][INFO][tid:9447][main:65]receive new connect
+[2021-12-15 05:11:39][INFO][tid:9447][WR_cfdHandler:262]add task to thread pool
+[2021-12-15 05:11:39][INFO][tid:9454][kvrespond_handler:176]the count of request is: 25
+[2021-12-15 05:11:39][INFO][tid:9454][kvrespond_handler:185]receive KEY_VALUE_RESPOND from client
+[2021-12-15 05:11:39][INFO][tid:9454][kvrespond_handler:186]{"data":{"flag":true,"key":"T8h51QR9MZqB2R1s014a","value":"lq3PargiH75qw24U85n3Dh0C5U3zcuRf09PcQE5Q2301QP59z6UKJlCeqEST4v46nXGu9aMl2T8xyPt0hR63u22M9s24IBj766Q9Ywou3dD8C5B0hTFnJStxBcVWB936hDQS1a86a60vbHaat47MESJNjHoJnOi85nroNG149Z4c3bh1cVGsu6UVY60k8T36OM6sf4T9"},"type":1}
+[2021-12-15 05:11:39][INFO][tid:9454][kvrespond_handler:193]do backup task
+[2021-12-15 05:11:39][INFO][tid:9447][WR_cfdHandler:262]add task to thread pool
+[2021-12-15 05:11:39][INFO][tid:9453][closeconnect:145]client[10] closed connection
+[2021-12-15 05:11:39][INFO][tid:9447][main:65]receive new connect
+[2021-12-15 05:11:39][INFO][tid:9447][WR_cfdHandler:262]add task to thread pool
+[2021-12-15 05:11:39][INFO][tid:9455][kvrespond_handler:176]the count of request is: 26
+[2021-12-15 05:11:39][INFO][tid:9455][kvrespond_handler:185]receive KEY_VALUE_RESPOND from client
+[2021-12-15 05:11:39][INFO][tid:9455][kvrespond_handler:186]{"data":{"flag":true,"key":"ExbO00sc0KaB1LNmkQEK","value":"4JC3fTTF460Vhysd5pbY0p7Bodha9BLm7d8fwV6P3WseY9pp59yDN50m798Ri4Ck1yjYBE6g9o6mLm5V5Rzb96xM6eLjTnt86Oe3wRa6G6rPST7zz6FjZYFT5fFy4nfhdkVO1AhQEMRjEEkPXxWT4ysLK522O1mPU0coTq6998i7k4h8hvLr5S11Vmm5kTYW9r3Hwz62"},"type":1}
+[2021-12-15 05:11:39][INFO][tid:9455][kvrespond_handler:193]do backup task
+[2021-12-15 05:11:39][INFO][tid:9447][WR_cfdHandler:262]add task to thread pool
+[2021-12-15 05:11:39][INFO][tid:9457][kvrespond_handler:176]the count of request is: 27
+[2021-12-15 05:11:39][INFO][tid:9457][kvrespond_handler:185]receive KEY_VALUE_RESPOND from client
+[2021-12-15 05:11:39][INFO][tid:9457][kvrespond_handler:186]{"data":{"flag":true,"key":"LgtwSz23p61u7jfgkSbj","value":"gL320041f9B0uR25KtpL87l8kc8bD4VkHy5SM8nRLNBohYbLQk67sLEHxU2jJZ6XzQkhNLyK89QXRO4yVIZllj58BI47D1A6Lezzq1fOLeC3o7144uow61ZWy0DlD266w74StZh9A8y7iF7JC6MTyASQJX4lLd8Mb3gujpjv5c90JHtkjLX0Fl3i9W3gDJK9ENsManGc"},"type":1}
+[2021-12-15 05:11:39][INFO][tid:9457][kvrespond_handler:193]do backup task
+[2021-12-15 05:11:39][INFO][tid:9447][WR_cfdHandler:262]add task to thread pool
+[2021-12-15 05:11:39][INFO][tid:9452][closeconnect:145]client[10] closed connection
+[2021-12-15 05:11:39][INFO][tid:9447][main:65]receive new connect
+[2021-12-15 05:11:39][INFO][tid:9447][WR_cfdHandler:262]add task to thread pool
+[2021-12-15 05:11:39][INFO][tid:9450][kvrespond_handler:176]the count of request is: 28
+[2021-12-15 05:11:39][INFO][tid:9450][kvrespond_handler:185]receive KEY_VALUE_RESPOND from client
+[2021-12-15 05:11:39][INFO][tid:9450][kvrespond_handler:186]{"data":{"flag":true,"key":"8sw4k3m2U25yaecv2xLj","value":"Jh33mpYN4ObWz3iKpqdTZhaXO23JQ8hwUd5pjK8yxAR0clR12KLQXijaEiOIBbCdT8190GRu1Wp7Z65C7Blm24eIzt4jfk54aOL7w9Srxm5osMmyYz5nW7uMr5WUo0Zqi97Jyic6uMg1nZ5LK6W6SRWSY6k2b7T4ZgUtZJ8P59srFy9Cn1j18HF3X8eN5jb0yxF816zt"},"type":1}
+[2021-12-15 05:11:39][INFO][tid:9450][kvrespond_handler:193]do backup task
+[2021-12-15 05:11:40][INFO][tid:9447][WR_cfdHandler:262]add task to thread pool
+[2021-12-15 05:11:40][INFO][tid:9449][kvrespond_handler:176]the count of request is: 29
+[2021-12-15 05:11:40][INFO][tid:9449][kvrespond_handler:185]receive KEY_VALUE_RESPOND from client
+[2021-12-15 05:11:40][INFO][tid:9449][kvrespond_handler:186]{"data":{"flag":true,"key":"30YSQ7R023cYZlxz200k","value":"97aq11OH60ZDiJkqZMN8v72Dv06zz0fDrKVUhFplfFj5r47hspihYWXZeY7c9H75fMThHiO5Qja3nwk9U0Wg7m072xe2jmMldw9ivu8905a1KFFF4LHj3B9KeS3SnO2dW11i2KCus06tkGf6C2jQGGbu8xyCEO1Qt1umKm8JU439438LJwIjei1qAvdLA72rZ1189561"},"type":1}
+[2021-12-15 05:11:40][INFO][tid:9449][kvrespond_handler:193]do backup task
+[2021-12-15 05:11:40][INFO][tid:9447][WR_cfdHandler:262]add task to thread pool
+[2021-12-15 05:11:40][INFO][tid:9451][closeconnect:145]client[10] closed connection
+[2021-12-15 05:11:40][INFO][tid:9447][main:65]receive new connect
+[2021-12-15 05:11:40][INFO][tid:9447][WR_cfdHandler:262]add task to thread pool
+[2021-12-15 05:11:40][INFO][tid:9453][kvrespond_handler:176]the count of request is: 30
+[2021-12-15 05:11:40][INFO][tid:9453][kvrespond_handler:185]receive KEY_VALUE_RESPOND from client
+[2021-12-15 05:11:40][INFO][tid:9453][kvrespond_handler:186]{"data":{"flag":true,"key":"6uVaQm1kmPB2C2E753aR","value":"ZiR3J2kOQWH1hcoaAZ33FbzfCn4sZZr4kNVauu1nGKt3Bh360lq6q1lGxHYmzU02Mggq1GvF195hVROwsHwWY0378mC8YAs6623zRwRqq5x7Ul2ag0zlIe2KzJPUYAM6RFr2aD0n10c1k80tEvTYT2P1F8Xk76464NkuQHvYr0yAf5pKv01Lf9o5Tw08GuLteN0VTt31"},"type":1}
+[2021-12-15 05:11:40][INFO][tid:9453][kvrespond_handler:193]do backup task
+[2021-12-15 05:11:40][INFO][tid:9447][WR_cfdHandler:262]add task to thread pool
+[2021-12-15 05:11:40][INFO][tid:9456][kvrespond_handler:176]the count of request is: 31
+[2021-12-15 05:11:40][INFO][tid:9456][kvrespond_handler:185]receive KEY_VALUE_RESPOND from client
+[2021-12-15 05:11:40][INFO][tid:9456][kvrespond_handler:186]{"data":{"flag":true,"key":"Y0lvUq8m7tcz2IXA25f4","value":"5iyHYJTzF1JBQBK4nvdlF4GT8pI3oxBS3zTNICBcvt0f9dzMK80fWac1yF14N9rt1529V59179OeW67tXcrugM00PjCJxo0uLxqtbx2020yu0rTILN3Ynt868GKYNk5qc84125V3MzE653U3WdZKQc444iPx05rR1y32d1xi7Amp53Og2qqFmu1GTAIuO8702TyzWVz7"},"type":1}
+[2021-12-15 05:11:40][INFO][tid:9456][kvrespond_handler:193]do backup task
+[2021-12-15 05:11:40][INFO][tid:9447][WR_cfdHandler:262]add task to thread pool
+[2021-12-15 05:11:40][INFO][tid:9455][kvrespond_handler:176]the count of request is: 32
+[2021-12-15 05:11:40][INFO][tid:9455][kvrespond_handler:185]receive KEY_VALUE_RESPOND from client
+[2021-12-15 05:11:40][INFO][tid:9455][kvrespond_handler:186]{"data":{"flag":true,"key":"KcG123g2F1KRycnuitvN","value":"tS5y5156af2Q6Hd5LANlZ0Xk1QRdRh86E8861C7mG5mnk3VtS0uKC53GsjuK362r47hrS6E7s077C1X7RRkldAqI2wDstSh0P8Ed245I3wa6TmbAh6nU984l3u8lMTN55074UmqlHY9XLAO38apy2TIumWgzO9J5X3dZdoAGFAYEcS23FBVKWo5L0BMp4D947M0hXgvw"},"type":1}
+[2021-12-15 05:11:40][INFO][tid:9455][kvrespond_handler:193]do backup task
+[2021-12-15 05:11:40][INFO][tid:9447][WR_cfdHandler:262]add task to thread pool
+[2021-12-15 05:11:40][INFO][tid:9457][closeconnect:145]client[10] closed connection
+[2021-12-15 05:11:43][INFO][tid:9447][main:65]receive new connect
+[2021-12-15 05:11:43][INFO][tid:9447][WR_cfdHandler:262]add task to thread pool
+[2021-12-15 05:11:43][INFO][tid:9458][kvrespond_handler:176]the count of request is: 33
+[2021-12-15 05:11:43][INFO][tid:9458][kvrespond_handler:185]receive KEY_VALUE_RESPOND from client
+[2021-12-15 05:11:43][INFO][tid:9458][kvrespond_handler:186]{"data":{"flag":true,"key":"9m30CzEt1PT36dr96J7x","value":"Mfp9ae2ENiLt6GJrc8xQa96cJ849J8tPfr9e1Dd7Q5S5GvUx681FocQGQRJlZ6346bQm88utZ34Cpq667984fVwMYjPtg3z6YWE5cm4X9GVcouofYe0r29F73M9yo1ets7bCFNQao4GSK7S98we4y9YknL4SJQnq96Q2s5cg32859OryvB9CIt67uG4dyR3YwghHv6e0"},"type":1}
+[2021-12-15 05:11:43][INFO][tid:9458][kvrespond_handler:193]do backup task
+[2021-12-15 05:11:43][INFO][tid:9447][WR_cfdHandler:262]add task to thread pool
+[2021-12-15 05:11:43][INFO][tid:9450][kvrespond_handler:176]the count of request is: 34
+[2021-12-15 05:11:43][INFO][tid:9450][kvrespond_handler:185]receive KEY_VALUE_RESPOND from client
+[2021-12-15 05:11:43][INFO][tid:9450][kvrespond_handler:186]{"data":{"flag":true,"key":"I2W326b62VI7T85WX10I","value":"fl2PPAMpXYnu203wfcpJ1IcCJEY9X0HepYz5s4xW52CH6lb31YJ7Jzn08eM43lf2r7N87EbZ99Sc38cik6NwgFzmmy1ipIdPYNO0Pdf7ichn5SMv1B9DSy3UM91U244Cy1Z91S75MvB7Gux0fR1YAV2232dY35UI2f9dwOZY9LUhe0HBB0NBe070Fltjp2eVIj3lDlqO"},"type":1}
+[2021-12-15 05:11:43][INFO][tid:9450][kvrespond_handler:193]do backup task
+[2021-12-15 05:11:43][INFO][tid:9447][WR_cfdHandler:262]add task to thread pool
+[2021-12-15 05:11:43][INFO][tid:9449][kvrespond_handler:176]the count of request is: 35
+[2021-12-15 05:11:43][INFO][tid:9449][kvrespond_handler:185]receive KEY_VALUE_RESPOND from client
+[2021-12-15 05:11:43][INFO][tid:9449][kvrespond_handler:186]{"data":{"flag":true,"key":"5XA9Kl14jhsTCfyI16M6","value":"35erKl96Gsci1zoWZi5t5MnzLaV08HKxr3h9S8VdH1NOBM8xr36938R66gw8VLEvY4P5sik31X9IyNeE7H15jAsTi11p1znDMk479Yom9x19rVhi938jE6b9os9OXElag6hZa66QPU3Uv1M8qd1N624VLG6v7h9GHj515SOY459i1R8yohH6r95IS15fhhY8o9vx27Ba"},"type":1}
+[2021-12-15 05:11:44][INFO][tid:9447][WR_cfdHandler:262]add task to thread pool
+[2021-12-15 05:11:44][INFO][tid:9451][kvrespond_handler:176]the count of request is: 36
+[2021-12-15 05:11:44][INFO][tid:9451][kvrespond_handler:185]receive KEY_VALUE_RESPOND from client
+[2021-12-15 05:11:44][INFO][tid:9451][kvrespond_handler:186]{"data":{"flag":true,"key":"f6imzm6Eld2FOo92R7ER","value":"3omAetXhsSTXY2Hk1FtwM4q6Bnt5e8cZ6kOcY8A2H2V0CoeUw6OORFTVpDbmv18P6a4T9P3riFVq1rK5r1w9WI04w9SmmdPXMbb868o00JCCD6PCRmAScc1I99ORGmV2Vj2awyGSZ8Nhj69vb79JI8pYAD8L3e0AHeLYWNBBW6pE1O19y1c1Xlg9RlbF4wmGtXy4ZyYm"},"type":1}
+[2021-12-15 05:11:44][INFO][tid:9460][reflesh_handler:289]================receive REFLESH_IP commond from master========================
+[2021-12-15 05:11:44][INFO][tid:9447][WR_cfdHandler:262]add task to thread pool
+[2021-12-15 05:11:44][INFO][tid:9454][kvrespond_handler:176]the count of request is: 37
+[2021-12-15 05:11:44][INFO][tid:9454][kvrespond_handler:185]receive KEY_VALUE_RESPOND from client
+[2021-12-15 05:11:44][INFO][tid:9454][kvrespond_handler:186]{"data":{"flag":true,"key":"75i7T5dgOdFe50w0ZM2T","value":"Xtq27ViHAFz6bJfrifQhKqF0ye1X65mQswr69W0A63e781N406WhL62V0TYwdIlCSf6040AF5STNLrx4pIs9kNcsUia88M4HQI5Z911fZpl8E70pVr17E7tPmtj4JRg742q8o1me30hiGR4nX3Zn7AA264z4NtY1yOd21m750mJ00um2qjhMlO8F202Hkz5KY7S8JMLh"},"type":1}
+[2021-12-15 05:11:44][INFO][tid:9454][kvrespond_handler:193]do backup task
+[2021-12-15 05:11:44][INFO][tid:9447][WR_cfdHandler:262]add task to thread pool
+[2021-12-15 05:11:44][INFO][tid:9453][kvrespond_handler:176]the count of request is: 38
+[2021-12-15 05:11:44][INFO][tid:9453][kvrespond_handler:185]receive KEY_VALUE_RESPOND from client
+[2021-12-15 05:11:44][INFO][tid:9453][kvrespond_handler:186]{"data":{"flag":true,"key":"DRuD2tC1S5MBMy9E0mZZ","value":"s8Jf619uDFJWjoA1lqv9R7s580EmqZ6nUA90Gj1wTCM3s0J6pw5U22ejHZDXI4DB2Q03snGyM582Cu7a41eku5z60HL9E0c81XlqkI8Yb9haYe3Aj43D36ll1BmI4p1h9K90DfHFMrK057t70nIG5c0p4SHO38U3rRrP71bm549C2X72uO7pX4eu0gci6B3LrGFP9Ed0"},"type":1}
+[2021-12-15 05:11:44][INFO][tid:9453][kvrespond_handler:193]do backup task
+[2021-12-15 05:11:44][INFO][tid:9447][WR_cfdHandler:262]add task to thread pool
+[2021-12-15 05:11:44][INFO][tid:9456][kvrespond_handler:176]the count of request is: 39
+[2021-12-15 05:11:44][INFO][tid:9456][kvrespond_handler:185]receive KEY_VALUE_RESPOND from client
+[2021-12-15 05:11:44][INFO][tid:9456][kvrespond_handler:186]{"data":{"flag":true,"key":"Yt153V475R0yuH012Zlb","value":"6X83Q8vhmY70o88tt1l41ZD42b052f21r0yIm5RhgC609315y25Ee43S4573eaE484hYclsWaiE6748VNpfh69WEBu8SIjY76H2v9gfEzo40Ctqos4OhTF455ib6q9A2VjpL916mjxD7L1yI003WLC3Z3sujNVTGWd5z2HuJiv06sPQ5MV35asIdEw4XVN6ZcYRc23xq"},"type":1}
+[2021-12-15 05:11:44][INFO][tid:9456][kvrespond_handler:193]do backup task
+[2021-12-15 05:11:44][INFO][tid:9447][WR_cfdHandler:262]add task to thread pool
+[2021-12-15 05:11:44][INFO][tid:9455][kvrespond_handler:176]the count of request is: 40
+[2021-12-15 05:11:44][INFO][tid:9455][kvrespond_handler:185]receive KEY_VALUE_RESPOND from client
+[2021-12-15 05:11:44][INFO][tid:9455][kvrespond_handler:186]{"data":{"flag":true,"key":"qYnk2QZ9EN93kZXYb3eI","value":"h43Y4xV2n7Ezp79q2sV6jI6J6lA7uOJ83FyKb5hr74P089snzeyi70vXojj2z9Ut0SR15yZ71sreJk36028cnH40lk2TNsksgO9n665Z5Se2t6CUuI0oUTFKg0Sdl4tA6zI74bhfS1078K61VJR53Uy9LBQs323WdRiOjXIa0t7Xt1wXA4Pi6j6D236hwswu5h4YWkW3"},"type":1}
+[2021-12-15 05:11:44][INFO][tid:9455][kvrespond_handler:193]do backup task
+[2021-12-15 05:11:44][INFO][tid:9447][WR_cfdHandler:262]add task to thread pool
+[2021-12-15 05:11:44][INFO][tid:9457][kvrespond_handler:176]the count of request is: 41
+[2021-12-15 05:11:44][INFO][tid:9457][kvrespond_handler:185]receive KEY_VALUE_RESPOND from client
+[2021-12-15 05:11:44][INFO][tid:9457][kvrespond_handler:186]{"data":{"flag":true,"key":"oj69J23P4tg90w1n74ZL","value":"6KkCakTNLM8A64u3AIUjMG2ae6pJ7qbawS43Xru5hs0mN1fu3yNV9K74N4I179K8766Wx62sf4F6rWH9Z3ac2dlf6FXsq49AnJ3PxbS073YjqQ9xGdT0P17991mD8Y0nGXPVy36J780eAs3k2l4wfjMZqZGA61a5RUVYj9d18DDiYhr2BTUaDaCDVU0T5Kp89OeOFQq3"},"type":1}
+[2021-12-15 05:11:44][INFO][tid:9457][kvrespond_handler:193]do backup task
+[2021-12-15 05:11:44][INFO][tid:9447][WR_cfdHandler:262]add task to thread pool
+[2021-12-15 05:11:44][INFO][tid:9452][closeconnect:145]client[10] closed connection
+[2021-12-15 05:11:44][INFO][tid:9447][main:65]receive new connect
+[2021-12-15 05:11:44][INFO][tid:9447][WR_cfdHandler:262]add task to thread pool
+[2021-12-15 05:11:44][INFO][tid:9450][kvrespond_handler:176]the count of request is: 42
+[2021-12-15 05:11:44][INFO][tid:9450][kvrespond_handler:185]receive KEY_VALUE_RESPOND from client
+[2021-12-15 05:11:44][INFO][tid:9450][kvrespond_handler:186]{"data":{"flag":true,"key":"qYnk2QZ9EN93kZXYb3eI","value":"h43Y4xV2n7Ezp79q2sV6jI6J6lA7uOJ83FyKb5hr74P089snzeyi70vXojj2z9Ut0SR15yZ71sreJk36028cnH40lk2TNsksgO9n665Z5Se2t6CUuI0oUTFKg0Sdl4tA6zI74bhfS1078K61VJR53Uy9LBQs323WdRiOjXIa0t7Xt1wXA4Pi6j6D236hwswu5h4YWkW3"},"type":1}
+[2021-12-15 05:11:44][INFO][tid:9450][kvrespond_handler:193]do backup task
+[2021-12-15 05:11:44][INFO][tid:9447][WR_cfdHandler:262]add task to thread pool
+[2021-12-15 05:11:44][INFO][tid:9449][kvrespond_handler:176]the count of request is: 43
+[2021-12-15 05:11:44][INFO][tid:9449][kvrespond_handler:185]receive KEY_VALUE_RESPOND from client
+[2021-12-15 05:11:44][INFO][tid:9449][kvrespond_handler:186]{"data":{"flag":true,"key":"oj69J23P4tg90w1n74ZL","value":"6KkCakTNLM8A64u3AIUjMG2ae6pJ7qbawS43Xru5hs0mN1fu3yNV9K74N4I179K8766Wx62sf4F6rWH9Z3ac2dlf6FXsq49AnJ3PxbS073YjqQ9xGdT0P17991mD8Y0nGXPVy36J780eAs3k2l4wfjMZqZGA61a5RUVYj9d18DDiYhr2BTUaDaCDVU0T5Kp89OeOFQq3"},"type":1}
+[2021-12-15 05:11:44][INFO][tid:9449][kvrespond_handler:193]do backup task
+[2021-12-15 05:11:45][INFO][tid:9447][WR_cfdHandler:262]add task to thread pool
+[2021-12-15 05:11:45][INFO][tid:9451][kvrespond_handler:176]the count of request is: 44
+[2021-12-15 05:11:45][INFO][tid:9451][kvrespond_handler:185]receive KEY_VALUE_RESPOND from client
+[2021-12-15 05:11:45][INFO][tid:9451][kvrespond_handler:186]{"data":{"flag":true,"key":"I2W326b62VI7T85WX10I","value":"fl2PPAMpXYnu203wfcpJ1IcCJEY9X0HepYz5s4xW52CH6lb31YJ7Jzn08eM43lf2r7N87EbZ99Sc38cik6NwgFzmmy1ipIdPYNO0Pdf7ichn5SMv1B9DSy3UM91U244Cy1Z91S75MvB7Gux0fR1YAV2232dY35UI2f9dwOZY9LUhe0HBB0NBe070Fltjp2eVIj3lDlqO"},"type":1}
+[2021-12-15 05:11:45][INFO][tid:9451][kvrespond_handler:193]do backup task
+[2021-12-15 05:11:45][INFO][tid:9447][WR_cfdHandler:262]add task to thread pool
+[2021-12-15 05:11:45][INFO][tid:9454][closeconnect:145]client[10] closed connection
+[2021-12-15 05:11:53][INFO][tid:9460][add_handler:274]receive ADD_CACHE commond from master
+[2021-12-15 05:11:53][INFO][tid:9554][sendout_data:112]sendout data to cache 127.0.0.1:8000
+[2021-12-15 05:11:54][INFO][tid:9447][main:65]receive new connect
+[2021-12-15 05:11:54][INFO][tid:9447][main:65]receive new connect
+[2021-12-15 05:11:54][INFO][tid:9447][WR_cfdHandler:262]add task to thread pool
+[2021-12-15 05:11:54][INFO][tid:9447][WR_cfdHandler:262]add task to thread pool
+[2021-12-15 05:11:54][INFO][tid:9455][kvrespond_handler:176]the count of request is: 45
+[2021-12-15 05:11:54][INFO][tid:9455][kvrespond_handler:178]receive KEY_VALUE_RESPONDBK from other cache
+[2021-12-15 05:11:54][INFO][tid:9455][kvrespond_handler:179]{"data":{"flag":true,"key":"5XA9Kl14jhsTCfyI16M6","value":"35erKl96Gsci1zoWZi5t5MnzLaV08HKxr3h9S8VdH1NOBM8xr36938R66gw8VLEvY4P5sik31X9IyNeE7H15jAsTi11p1znDMk479Yom9x19rVhi938jE6b9os9OXElag6hZa66QPU3Uv1M8qd1N624VLG6v7h9GHj515SOY459i1R8yohH6r95IS15fhhY8o9vx27Ba"},"type":11}
+[2021-12-15 05:11:54][INFO][tid:9455][closeconnect:145]client[11] closed connection
+[2021-12-15 05:28:26][INFO][tid:9889][heartbeat_connect:226]connect with master 127.0.0.1:7000
+[2021-12-15 05:28:26][INFO][tid:9889][add_handler:274]receive ADD_CACHE commond from master
+[2021-12-15 05:28:28][INFO][tid:9889][add_handler:274]receive ADD_CACHE commond from master
+[2021-12-15 05:28:30][INFO][tid:9876][main:65]receive new connect
+[2021-12-15 05:28:30][INFO][tid:9876][WR_cfdHandler:262]add task to thread pool
+[2021-12-15 05:28:30][INFO][tid:9879][kvrespond_handler:176]the count of request is: 1
+[2021-12-15 05:28:30][INFO][tid:9879][kvrespond_handler:185]receive KEY_VALUE_RESPOND from client
+[2021-12-15 05:28:30][INFO][tid:9879][kvrespond_handler:186]{"data":{"flag":true,"key":"W5bQ1dro6Yi9sdRm8rSY","value":"39facyEdgX5lrLN55fk0K8q1n0wSM90cji2MKt9XV71576f5FmFd98FB3vhFsqWQa4c1f6Loj1pr3i19cHkcC87of3dFGxq24D4dwtCOo1QV6G5o8b46n0x10GPTw3SduuM276EoY9a71MXd4Lnqu84Lj4WiXbMne0d65ax65QmHvhO9UOp89E88E3I4Spg7iZ7u5mU9"},"type":1}
+[2021-12-15 05:28:30][INFO][tid:9879][kvrespond_handler:193]do backup task
+[2021-12-15 05:28:30][INFO][tid:9876][WR_cfdHandler:262]add task to thread pool
+[2021-12-15 05:28:30][INFO][tid:9880][kvrespond_handler:176]the count of request is: 2
+[2021-12-15 05:28:30][INFO][tid:9880][kvrespond_handler:185]receive KEY_VALUE_RESPOND from client
+[2021-12-15 05:28:30][INFO][tid:9880][kvrespond_handler:186]{"data":{"flag":true,"key":"Kr4ziObPe3paJaQ79Wtj","value":"0Ppa5s009iq7195ds6Be8sQ4G90e0zJg5o9f4dx8SEh0Z9irQn3Q499ys3P8TDbOB20vfjJD1g0vGI9ca12P5g3j41iu59buZaS82ui4V3wvb5zg7fXTU1sSlU4f5B1k369CIJ1Sz82uFcF02Mj0GW454HgcA3sEM577U8dRb6E886519mWJ8xk97xRcD9o17xPdr5RQ"},"type":1}
+[2021-12-15 05:28:30][INFO][tid:9880][kvrespond_handler:193]do backup task
+[2021-12-15 05:28:30][INFO][tid:9876][WR_cfdHandler:262]add task to thread pool
+[2021-12-15 05:28:30][INFO][tid:9881][kvrespond_handler:176]the count of request is: 3
+[2021-12-15 05:28:30][INFO][tid:9881][kvrespond_handler:185]receive KEY_VALUE_RESPOND from client
+[2021-12-15 05:28:30][INFO][tid:9881][kvrespond_handler:186]{"data":{"flag":true,"key":"F21RE976FP26W1Uy36Q5","value":"9mitc15Ze32076d9q80n6QR96Xp8j5SsfJE5xnF1wW9bjkM0uh364jQxi06R2DhrSc79Eh1mawWqs6nF1WvJfZxc5nQJA8k1gIe4KLo8QV36V1en8MrIrMLBr83y3MO9YcGuIhExjr0uj07139S6gyqjHrry0Zr147lf2Eb3P9i9xhNCmCOqnDM1bn8p5d1SQeeGUI64"},"type":1}
+[2021-12-15 05:28:30][INFO][tid:9881][kvrespond_handler:193]do backup task
+[2021-12-15 05:28:30][INFO][tid:9876][WR_cfdHandler:262]add task to thread pool
+[2021-12-15 05:28:30][INFO][tid:9882][kvrespond_handler:176]the count of request is: 4
+[2021-12-15 05:28:30][INFO][tid:9882][kvrespond_handler:185]receive KEY_VALUE_RESPOND from client
+[2021-12-15 05:28:30][INFO][tid:9882][kvrespond_handler:186]{"data":{"flag":true,"key":"rg2rtaDupZynRaJ626jS","value":"0sNVrYcj7FzXaAE5K29d1gRSCYnQCcIL8v00d0raz4wFF0CKl1jhdLn9nG98wUSe8ePMB8M8Q69u7vXSqk347DS4vbXtQGraa6L9H3O3o63E6sOw5dgFHs4MXTaU1171Tka38I2sS0L2QDGTSet1fbjpjY9x1T76t0fe44BvZg29GjDAw566AIE3zFD8osvQKVyJ3CXW"},"type":1}
+[2021-12-15 05:28:30][INFO][tid:9882][kvrespond_handler:193]do backup task
+[2021-12-15 05:28:30][INFO][tid:9876][WR_cfdHandler:262]add task to thread pool
+[2021-12-15 05:28:30][INFO][tid:9883][closeconnect:145]client[7] closed connection
+[2021-12-15 05:28:30][INFO][tid:9876][main:65]receive new connect
+[2021-12-15 05:28:30][INFO][tid:9876][WR_cfdHandler:262]add task to thread pool
+[2021-12-15 05:28:30][INFO][tid:9885][kvrespond_handler:176]the count of request is: 5
+[2021-12-15 05:28:30][INFO][tid:9885][kvrespond_handler:178]receive KEY_VALUE_RESPONDBK from other cache
+[2021-12-15 05:28:30][INFO][tid:9885][kvrespond_handler:179]{"data":{"flag":true,"key":"qNdF19s0JZS9ex18Yv0x","value":"bsmAlikmIS3TPJqY3QW1qQGq57i8v2Uf7vO9M22n3aFUOnnaS3uoAcXWqGyZ7AK601Q4aG87Y4q2fT4VKI2qV1bO279J75NIXYHVnBYR7gD65x92anW18beZIZZ1q7ayB962I2fUlC7m9gRTsuA49CpPQO2wx34LB6Opmm7EVUutu84j7VjEFb2d2CNq11y4Iw6P7R4e"},"type":11}
+[2021-12-15 05:28:31][INFO][tid:9876][main:65]receive new connect
+[2021-12-15 05:28:31][INFO][tid:9876][WR_cfdHandler:262]add task to thread pool
+[2021-12-15 05:28:31][INFO][tid:9887][kvrespond_handler:176]the count of request is: 6
+[2021-12-15 05:28:31][INFO][tid:9887][kvrespond_handler:185]receive KEY_VALUE_RESPOND from client
+[2021-12-15 05:28:31][INFO][tid:9887][kvrespond_handler:186]{"data":{"flag":true,"key":"9f491f32j69g4W3pE36Y","value":"oSxhp2PF1060ucm6gIMQ1q1B00o7VJOmK4ndZq980Wa6v1eJPpj36Lyz6a0AuMdpMy7hpuktq26Uv37vUs5K6mcQ9Q15xN0zG0TlWvhvPp8tn65836S5bO1W5Rbv16E7tz794mCavZ4pvKTh7CTyWB0X2ssX4rfWiz5pKbTAZOBjZ9CJwqjgZck37c38p1l23NfUFY7A"},"type":1}
+[2021-12-15 05:28:31][INFO][tid:9887][kvrespond_handler:193]do backup task
+[2021-12-15 05:28:31][INFO][tid:9876][WR_cfdHandler:262]add task to thread pool
+[2021-12-15 05:28:31][INFO][tid:9878][kvrespond_handler:176]the count of request is: 7
+[2021-12-15 05:28:31][INFO][tid:9878][kvrespond_handler:185]receive KEY_VALUE_RESPOND from client
+[2021-12-15 05:28:31][INFO][tid:9878][kvrespond_handler:186]{"data":{"flag":true,"key":"J6SPo3r6l7v8ZT3iBSm5","value":"y7ZzPejOyo286DCdw54J96PTct1tK67qJF9AC7X54n7xCtUvS1Q0YM475ruwhM1LLn68b5Hp5vV9IKf7AuEwfh0rgQ5I0702Ts5JmaQ8KbZjHT7Uyk3sOz0eOR04OY5OjyT1N023bfauAtPoHSinRbaHFyHxNdcC2p10Jk37F2I29x87V9UrIsT39rtF4SGXkcMmVF88"},"type":1}
+[2021-12-15 05:28:31][INFO][tid:9878][kvrespond_handler:193]do backup task
+[2021-12-15 05:28:31][INFO][tid:9876][WR_cfdHandler:262]add task to thread pool
+[2021-12-15 05:28:31][INFO][tid:9879][closeconnect:145]client[8] closed connection
+[2021-12-15 05:28:31][INFO][tid:9876][main:65]receive new connect
+[2021-12-15 05:28:31][INFO][tid:9876][WR_cfdHandler:262]add task to thread pool
+[2021-12-15 05:28:31][INFO][tid:9881][kvrespond_handler:176]the count of request is: 8
+[2021-12-15 05:28:31][INFO][tid:9881][kvrespond_handler:178]receive KEY_VALUE_RESPONDBK from other cache
+[2021-12-15 05:28:31][INFO][tid:9881][kvrespond_handler:179]{"data":{"flag":true,"key":"5XA9Kl14jhsTCfyI16M6","value":"35erKl96Gsci1zoWZi5t5MnzLaV08HKxr3h9S8VdH1NOBM8xr36938R66gw8VLEvY4P5sik31X9IyNeE7H15jAsTi11p1znDMk479Yom9x19rVhi938jE6b9os9OXElag6hZa66QPU3Uv1M8qd1N624VLG6v7h9GHj515SOY459i1R8yohH6r95IS15fhhY8o9vx27Ba"},"type":11}
+[2021-12-15 05:28:31][INFO][tid:9876][main:65]receive new connect
+[2021-12-15 05:28:31][INFO][tid:9876][WR_cfdHandler:262]add task to thread pool
+[2021-12-15 05:28:31][INFO][tid:9883][kvrespond_handler:176]the count of request is: 9
+[2021-12-15 05:28:31][INFO][tid:9883][kvrespond_handler:185]receive KEY_VALUE_RESPOND from client
+[2021-12-15 05:28:31][INFO][tid:9883][kvrespond_handler:186]{"data":{"flag":true,"key":"6sAsW9el5rQKe10dm150","value":"i5GKlaT8ph4pjJ25737n5m26Y5vdPLRj68E4j7saZZAb6x86l1eBfyc6S1TKQt4262x0M4g96Tu98e0NBjk39rwFF7bLJY3Jy9niE3mJ3t7S8x3ufp8Gz12eHxEm5t7R6vFZDtKyX7ODA5PZ4ZA065v8eYV1Du83r7twfkL3B3Y047LwgxPz83gFoi9rVEC1J8hXb2Qr"},"type":1}
+[2021-12-15 05:28:31][INFO][tid:9883][kvrespond_handler:193]do backup task
+[2021-12-15 05:28:31][INFO][tid:9876][WR_cfdHandler:262]add task to thread pool
+[2021-12-15 05:28:31][INFO][tid:9884][kvrespond_handler:176]the count of request is: 10
+[2021-12-15 05:28:31][INFO][tid:9884][kvrespond_handler:185]receive KEY_VALUE_RESPOND from client
+[2021-12-15 05:28:31][INFO][tid:9884][kvrespond_handler:186]{"data":{"flag":true,"key":"WXf6Dj1tJj1aeJCF96u1","value":"9HTlmwENVi1YTL3o9868rB819764D8f0a1Ot0DNC1U22XKAC703M0uasn0eUoD1U36dHys3eBfJ2gQ38MCDU39y7W70814hs942jUP06nZ620qr69EEQE8IQXYw86pp4vraZs2KvNazmRucgJyIrTbr9x74lj06L2c7482u545o9i0yd9eAz39I50mDLm7Wwj7a36lqx"},"type":1}
+[2021-12-15 05:28:31][INFO][tid:9884][kvrespond_handler:193]do backup task
+[2021-12-15 05:28:31][INFO][tid:9876][WR_cfdHandler:262]add task to thread pool
+[2021-12-15 05:28:31][INFO][tid:9885][closeconnect:145]client[9] closed connection
+[2021-12-15 05:28:31][INFO][tid:9876][main:65]receive new connect
+[2021-12-15 05:28:31][INFO][tid:9876][WR_cfdHandler:262]add task to thread pool
+[2021-12-15 05:28:31][INFO][tid:9887][kvrespond_handler:176]the count of request is: 11
+[2021-12-15 05:28:31][INFO][tid:9887][kvrespond_handler:185]receive KEY_VALUE_RESPOND from client
+[2021-12-15 05:28:31][INFO][tid:9887][kvrespond_handler:186]{"data":{"flag":true,"key":"4aKIvGBzw5Xoo0a7iPL1","value":"k6LbTOPz32eA60um0q2ua0o83I1KEm59pM4v185085E0cJjB52Z5hGaM635aOwY8nF832LklJ1a2zPQ4Z447YNA5sJK0yk0WIkZ50kcln9EIeV3R16B22FnMqAH2F577I5qotr9i5avga461vthQG4Ny1OfcoA606x04w9wjEG85jWq0JK096409q88TG8KSWhGp5mo1"},"type":1}
+[2021-12-15 05:28:31][INFO][tid:9887][kvrespond_handler:193]do backup task
+[2021-12-15 05:28:31][INFO][tid:9876][WR_cfdHandler:262]add task to thread pool
+[2021-12-15 05:28:31][INFO][tid:9878][closeconnect:145]client[9] closed connection
+[2021-12-15 05:28:31][INFO][tid:9876][main:65]receive new connect
+[2021-12-15 05:28:31][INFO][tid:9876][WR_cfdHandler:262]add task to thread pool
+[2021-12-15 05:28:31][INFO][tid:9879][kvrespond_handler:176]the count of request is: 12
+[2021-12-15 05:28:31][INFO][tid:9879][kvrespond_handler:178]receive KEY_VALUE_RESPONDBK from other cache
+[2021-12-15 05:28:31][INFO][tid:9879][kvrespond_handler:179]{"data":{"flag":true,"key":"f6imzm6Eld2FOo92R7ER","value":"3omAetXhsSTXY2Hk1FtwM4q6Bnt5e8cZ6kOcY8A2H2V0CoeUw6OORFTVpDbmv18P6a4T9P3riFVq1rK5r1w9WI04w9SmmdPXMbb868o00JCCD6PCRmAScc1I99ORGmV2Vj2awyGSZ8Nhj69vb79JI8pYAD8L3e0AHeLYWNBBW6pE1O19y1c1Xlg9RlbF4wmGtXy4ZyYm"},"type":11}
+[2021-12-15 05:28:35][WARNING][tid:9889][is_anycommond:251]connection with master fails
+[2021-12-15 05:28:37][INFO][tid:9876][main:65]receive new connect
+[2021-12-15 05:28:37][INFO][tid:9876][WR_cfdHandler:262]add task to thread pool
+[2021-12-15 05:28:37][INFO][tid:9889][heartbeat_connect:226]connect with master 127.0.0.1:7001
+[2021-12-15 05:28:37][INFO][tid:9889][add_handler:274]receive ADD_CACHE commond from master
+[2021-12-15 05:28:39][INFO][tid:9889][add_handler:274]receive ADD_CACHE commond from master
+[2021-12-15 05:29:01][WARNING][tid:9889][is_anycommond:251]connection with master fails

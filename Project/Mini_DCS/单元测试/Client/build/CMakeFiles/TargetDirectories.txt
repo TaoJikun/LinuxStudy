@@ -1,0 +1,7 @@
+/mnt/i/Yinli plan/小组课题/1212/client/gtest/build/CMakeFiles/install/strip.dir
+/mnt/i/Yinli plan/小组课题/1212/client/gtest/build/CMakeFiles/install/local.dir
+/mnt/i/Yinli plan/小组课题/1212/client/gtest/build/CMakeFiles/install.dir
+/mnt/i/Yinli plan/小组课题/1212/client/gtest/build/CMakeFiles/list_install_components.dir
+/mnt/i/Yinli plan/小组课题/1212/client/gtest/build/CMakeFiles/rebuild_cache.dir
+/mnt/i/Yinli plan/小组课题/1212/client/gtest/build/CMakeFiles/edit_cache.dir
+/mnt/i/Yinli plan/小组课题/1212/client/gtest/build/CMakeFiles/client_unittest.dir

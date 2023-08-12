@@ -1,0 +1,72 @@
+[2021-12-17 16:28:41][VERBOSE][tid:11691][client.hpp(190):CountTime]start: 1639729718, end: 1639729721, interval: 3s
+[2021-12-17 16:28:41][TRACE][tid:11691][client.hpp(177):WriteData]write data once
+[2021-12-17 16:28:41][TRACE][tid:11691][client.hpp(91):Writejs]create new KEY_VALUE_RESPOND json data
+[2021-12-17 16:28:41][VERBOSE][tid:11691][client.hpp(243):KeyValueWrite]send key-value json data : key->Os33A7k46qgA5PNeeFeT 	 value->GNxXyS2R2DYhJC0F70Y76xJ56L6H21C6G2xHVqV064Dky948h1WM6VxNG8FN12Eu24Jh4N496754Ht62Zx328JqD4prXoO947p4xD762DoaUdRbNhwUw5VPfiM1YS6RsOuij5Qp38fs25i8rQq786V7UBS3615U1eMzE7Jtth1R884lF7FSB3W4cB78Z3ra6S7z7vU9k
+[2021-12-17 16:28:41][VERBOSE][tid:11691][client.hpp(190):CountTime]start: 1639729718, end: 1639729721, interval: 3s
+[2021-12-17 16:28:41][TRACE][tid:11691][client.hpp(252):KeyValueWrite]close connection to server: 127.0.0.1:8000
+[2021-12-17 16:28:41][TRACE][tid:11691][client.hpp(126):ConnectServ]connect once
+[2021-12-17 16:28:41][INFO][tid:11691][client.hpp(261):KeyValueWrite]set connection to server: 127.0.0.1:8001
+[2021-12-17 16:28:41][TRACE][tid:11691][client.hpp(177):WriteData]write data once
+[2021-12-17 16:28:41][TRACE][tid:11691][client.hpp(91):Writejs]create new KEY_VALUE_RESPOND json data
+[2021-12-17 16:28:41][VERBOSE][tid:11691][client.hpp(243):KeyValueWrite]send key-value json data : key->8g5nrLGn63QF8149wObv 	 value->SZMprvE25jL8jZzh2THKP73EP89kUvR5qzuapeR93If2G69a1M5cfMtf2xkiMQW8Qp3d5dV7Xf9BxGI3Q4d48GjvpTRx7J59KT5Xrnd0Lsb48m3P78884VRcO5oH8yJQYjv6634klB4qfX4r73fHLahshXE73Cj87c478to38656L7ZSOa0a5Q6nYIft35YNCcROAlc5
+[2021-12-17 16:28:41][VERBOSE][tid:11691][client.hpp(190):CountTime]start: 1639729718, end: 1639729721, interval: 3s
+[2021-12-17 16:28:41][TRACE][tid:11691][client.hpp(252):KeyValueWrite]close connection to server: 127.0.0.1:8001
+[2021-12-17 16:28:41][TRACE][tid:11691][client.hpp(126):ConnectServ]connect once
+[2021-12-17 16:28:41][INFO][tid:11691][client.hpp(261):KeyValueWrite]set connection to server: 127.0.0.1:8000
+[2021-12-17 16:28:41][TRACE][tid:11691][client.hpp(177):WriteData]write data once
+[2021-12-17 16:28:42][TRACE][tid:11691][client.hpp(91):Writejs]create new KEY_VALUE_RESPOND json data
+[2021-12-17 16:28:42][VERBOSE][tid:11691][client.hpp(243):KeyValueWrite]send key-value json data : key->vfcpJwj8TiN325Im8qkz 	 value->v6v8my9Tr1CWKPKHnbPwLmU211QCjWGdH3UXZM78fp1y9s3q9GgHT9FELFnu1Vl5Mpb5tk4I8BtyLY6O3o4FX0GT2qUP69ynB534sK5T7H69L0CubKn53JkY6LeKAdSi0tLkvtBvzPzuWgXjKOVH7yusD8LI012IMNYA6vVnx5orekWC82338aap3Jl3qcU3vj1O82fS
+[2021-12-17 16:28:42][VERBOSE][tid:11691][client.hpp(190):CountTime]start: 1639729718, end: 1639729722, interval: 4s
+[2021-12-17 16:28:42][TRACE][tid:11691][client.hpp(252):KeyValueWrite]close connection to server: 127.0.0.1:8000
+[2021-12-17 16:28:42][TRACE][tid:11691][client.hpp(126):ConnectServ]connect once
+[2021-12-17 16:28:42][INFO][tid:11691][client.hpp(261):KeyValueWrite]set connection to server: 127.0.0.1:8003
+[2021-12-17 16:28:42][TRACE][tid:11691][client.hpp(177):WriteData]write data once
+[2021-12-17 16:28:42][TRACE][tid:11691][client.hpp(91):Writejs]create new KEY_VALUE_RESPOND json data
+[2021-12-17 16:28:42][VERBOSE][tid:11691][client.hpp(243):KeyValueWrite]send key-value json data : key->om4yZxXs7M1KKSyX1F3k 	 value->9M0XeWRm8Vt5u49CJ8K9p3C00r6af0tpwcg7fHERnA9KhpuFFY6l2u637HJJh7evL0tZC6G24ie6PqHEg2lq7mCv5uv0KGxQQH0Sg28OKG0S0wO1NH6w8q94r058Yt32qKgAO5XwTWvSML7pKmkhDB5Q0P4ryr2v9PVyFCBWJVXr058ffFVb6867Ds00vTB2U0kV3d5D
+[2021-12-17 16:28:42][VERBOSE][tid:11691][client.hpp(190):CountTime]start: 1639729718, end: 1639729722, interval: 4s
+[2021-12-17 16:28:42][TRACE][tid:11691][client.hpp(177):WriteData]write data once
+[2021-12-17 16:28:42][TRACE][tid:11691][client.hpp(91):Writejs]create new KEY_VALUE_RESPOND json data
+[2021-12-17 16:28:42][VERBOSE][tid:11691][client.hpp(243):KeyValueWrite]send key-value json data : key->7eyO4WvX15prkB6520qS 	 value->LhBRYTPt7dcsK8SKAa1p6Wh01tR6N0UnRW0R2Ch0hRUC2t3A5INw5p0wsA36Qhb40LQ73F3DrlHH8DZ9396Bi5K093j2G5d3i2f01d2c4IdLOT6cdulb3YWZog650o80w3ghIe8r8R5Ru69R1gS4v3b7cNtVP69pBA9A0NOCq82D6gjdRIs0V7t5F516zLY9S7P7622O
+[2021-12-17 16:28:42][VERBOSE][tid:11691][client.hpp(190):CountTime]start: 1639729718, end: 1639729722, interval: 4s
+[2021-12-17 16:28:42][TRACE][tid:11691][client.hpp(252):KeyValueWrite]close connection to server: 127.0.0.1:8003
+[2021-12-17 16:28:42][TRACE][tid:11691][client.hpp(126):ConnectServ]connect once
+[2021-12-17 16:28:42][INFO][tid:11691][client.hpp(261):KeyValueWrite]set connection to server: 127.0.0.1:8001
+[2021-12-17 16:28:42][TRACE][tid:11691][client.hpp(177):WriteData]write data once
+[2021-12-17 16:28:43][TRACE][tid:11691][client.hpp(91):Writejs]create new KEY_VALUE_RESPOND json data
+[2021-12-17 16:28:43][VERBOSE][tid:11691][client.hpp(243):KeyValueWrite]send key-value json data : key->7BHQic2RFecmMKnf4765 	 value->hV14U235b75Cbj23eIjFYkwB3tG33dVS12a9cnPZ365gVz53V7AuaD6XXkSVdioiTioXoi72X0jK0cu73IfPjL1uiXpHzn5kj67K91nxP1D999ij7Hf4POl6i04rz8dcCMd90b4l3Eu21eH2R1vuR7brFjv8o3ejEvCRM4x5J4swx5T783P7H5c2d1154ngupEQ7SFLk
+[2021-12-17 16:28:43][VERBOSE][tid:11691][client.hpp(190):CountTime]start: 1639729718, end: 1639729723, interval: 5s
+[2021-12-17 16:28:43][TRACE][tid:11691][client.hpp(252):KeyValueWrite]close connection to server: 127.0.0.1:8001
+[2021-12-17 16:28:43][TRACE][tid:11691][client.hpp(126):ConnectServ]connect once
+[2021-12-17 16:28:43][INFO][tid:11691][client.hpp(261):KeyValueWrite]set connection to server: 127.0.0.1:8003
+[2021-12-17 16:28:43][TRACE][tid:11691][client.hpp(177):WriteData]write data once
+[2021-12-17 16:28:43][TRACE][tid:11691][client.hpp(91):Writejs]create new KEY_VALUE_RESPOND json data
+[2021-12-17 16:28:43][VERBOSE][tid:11691][client.hpp(243):KeyValueWrite]send key-value json data : key->XNsdpE31lXsE1tt2eSVE 	 value->8S4hYTK0u9Lk9K2IEWtl38iszEp96sIPgoPt0J5W3LqxjX0GXEww5ykDu6W3U7avemZiP6a5KIKqL149W46eY1M0QEgK7H8WuzB74c0ikrhKN5mzSQ0y7tD51gY920YLKOgZrO5KowK2kay1p70ubT0w5Jtj9o422l1nQZ0n984TSr66U3a8u3ouAxZ2A88J2IwF8awh
+[2021-12-17 16:28:43][VERBOSE][tid:11691][client.hpp(190):CountTime]start: 1639729718, end: 1639729723, interval: 5s
+[2021-12-17 16:28:43][TRACE][tid:11691][client.hpp(252):KeyValueWrite]close connection to server: 127.0.0.1:8003
+[2021-12-17 16:28:43][TRACE][tid:11691][client.hpp(126):ConnectServ]connect once
+[2021-12-17 16:28:43][INFO][tid:11691][client.hpp(261):KeyValueWrite]set connection to server: 127.0.0.1:8001
+[2021-12-17 16:28:43][TRACE][tid:11691][client.hpp(177):WriteData]write data once
+[2021-12-17 16:28:43][TRACE][tid:11691][client.hpp(91):Writejs]create new KEY_VALUE_RESPOND json data
+[2021-12-17 16:28:43][VERBOSE][tid:11691][client.hpp(243):KeyValueWrite]send key-value json data : key->1Y1SIlaqv4PuXbHd14tw 	 value->wOl5ctVXII45hAQincVM8Pda6P8u6qpZvezS1fYS7K379wtcalY5obgMCP7Er8Z9ubt7T80yL1j889G8IuSmhMv428woak3I283J3aJK75ujq0EsQ8yLS3h5h31Z8cR7a41gWANJ24U9Fo08VvJxwKmgdSjAiPC1ZYc7s4uxZ2c13to75xL8n6UkFgkz2t10Bh88J9YA
+[2021-12-17 16:28:43][VERBOSE][tid:11691][client.hpp(190):CountTime]start: 1639729718, end: 1639729723, interval: 5s
+[2021-12-17 16:28:43][TRACE][tid:11691][client.hpp(252):KeyValueWrite]close connection to server: 127.0.0.1:8001
+[2021-12-17 16:28:43][TRACE][tid:11691][client.hpp(126):ConnectServ]connect once
+[2021-12-17 16:28:43][INFO][tid:11691][client.hpp(261):KeyValueWrite]set connection to server: 127.0.0.1:8003
+[2021-12-17 16:28:43][TRACE][tid:11691][client.hpp(177):WriteData]write data once
+[2021-12-17 16:28:43][TRACE][tid:11691][client.hpp(91):Writejs]create new KEY_VALUE_RESPOND json data
+[2021-12-17 16:28:43][VERBOSE][tid:11691][client.hpp(243):KeyValueWrite]send key-value json data : key->1OMIbG4YtRWCM94115bD 	 value->vgOS7pGVenxXJ6WBw9M61n1rPU9c13z3dI4xfV66y1M6SB7NxowPxc54rV64RSF3faKfB4hg777ug66p612Fr15ZdEw69punwdCN4SDY5m0Yr0vRMyfKrqXD24c5f0MVwPhGD2n6RD8p1j4waEmjJp0128AHn69or3C83732A6XlYayu8vu7bECT2eX6Iqd0oZMhK5Ds
+[2021-12-17 16:28:43][VERBOSE][tid:11691][client.hpp(190):CountTime]start: 1639729718, end: 1639729723, interval: 5s
+[2021-12-17 16:28:43][TRACE][tid:11691][client.hpp(252):KeyValueWrite]close connection to server: 127.0.0.1:8003
+[2021-12-17 16:28:43][TRACE][tid:11691][client.hpp(126):ConnectServ]connect once
+[2021-12-17 16:28:43][INFO][tid:11691][client.hpp(261):KeyValueWrite]set connection to server: 127.0.0.1:8001
+[2021-12-17 16:28:43][TRACE][tid:11691][client.hpp(177):WriteData]write data once
+[2021-12-17 16:28:44][TRACE][tid:11691][client.hpp(91):Writejs]create new KEY_VALUE_RESPOND json data
+[2021-12-17 16:28:44][VERBOSE][tid:11691][client.hpp(243):KeyValueWrite]send key-value json data : key->XG7Ws5Jj9d2C4JAQyYPh 	 value->5WC2rGK45S4llmEhWmnu4QJF16edqWxN8TGbsly5s3JQ82r9nUgm81Q4oJr33y010VSX69N2cdXsepP6QD6tbD0SLl0uxdE8M8wO3ojW6GM92yXMot11Bzn3f0Tdf4wNj2rCRIa65Zr62CaSzuGld2P2sh3394e97vp4ExiyT7c23u28iIXtj1Z4EHcrLxFLcQBCbGAa
+[2021-12-17 16:28:44][VERBOSE][tid:11691][client.hpp(190):CountTime]start: 1639729718, end: 1639729724, interval: 6s
+[2021-12-17 16:28:44][INFO][tid:11691][client.hpp(245):KeyValueWrite]distribution time out
+[2021-12-17 16:28:44][TRACE][tid:11691][client.hpp(95):Writejs]create new DISTRIBUTION_REQUEST json data
+[2021-12-17 16:28:44][INFO][tid:11691][client.hpp(341):DistributionRequest]--connection to master starts--
+[2021-12-17 16:28:44][TRACE][tid:11691][client.hpp(126):ConnectServ]connect once
+[2021-12-17 16:28:44][INFO][tid:11691][client.hpp(355):DistributionRequest]--connection to master done--
+[2021-12-17 16:28:44][TRACE][tid:11691][client.hpp(177):WriteData]write data once
+[2021-12-17 16:28:44][INFO][tid:11691][client.hpp(357):DistributionRequest]--send distribution resquest to master--

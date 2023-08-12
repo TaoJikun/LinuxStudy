@@ -1,0 +1,5 @@
+if(EXISTS "/home/aeneas/Desktop/test/test_thpl/test_thpl[1]_tests.cmake")
+  include("/home/aeneas/Desktop/test/test_thpl/test_thpl[1]_tests.cmake")
+else()
+  add_test(test_thpl_NOT_BUILT test_thpl_NOT_BUILT)
+endif()

@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/aeneas/Desktop/test/test_thpl/test_thpl.cpp
+thrd_pool.hpp
+/home/aeneas/Desktop/test/test_thpl/thrd_pool.hpp
+gtest/gtest.h
+/home/aeneas/Desktop/test/test_thpl/gtest/gtest.h
+
+/home/aeneas/Desktop/test/test_thpl/thrd_pool.hpp
+pthread.h
+-
+queue
+-
+iostream
+-
+unistd.h
+-
+cstring
+-
+

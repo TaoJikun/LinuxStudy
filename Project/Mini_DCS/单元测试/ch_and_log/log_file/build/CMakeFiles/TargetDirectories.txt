@@ -1,0 +1,3 @@
+/mnt/e/tencent/project/log_file/build/CMakeFiles/rebuild_cache.dir
+/mnt/e/tencent/project/log_file/build/CMakeFiles/edit_cache.dir
+/mnt/e/tencent/project/log_file/build/CMakeFiles/main.out.dir

@@ -1,0 +1,7 @@
+/home/aeneas/Desktop/project1212/CacheServer1212/2/CMakeFiles/install/strip.dir
+/home/aeneas/Desktop/project1212/CacheServer1212/2/CMakeFiles/install/local.dir
+/home/aeneas/Desktop/project1212/CacheServer1212/2/CMakeFiles/install.dir
+/home/aeneas/Desktop/project1212/CacheServer1212/2/CMakeFiles/list_install_components.dir
+/home/aeneas/Desktop/project1212/CacheServer1212/2/CMakeFiles/rebuild_cache.dir
+/home/aeneas/Desktop/project1212/CacheServer1212/2/CMakeFiles/edit_cache.dir
+/home/aeneas/Desktop/project1212/CacheServer1212/2/CMakeFiles/cache_server.dir

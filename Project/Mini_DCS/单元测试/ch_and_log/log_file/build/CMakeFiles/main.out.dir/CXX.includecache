@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/logfile.hpp
+pthread.h
+-
+semaphore.h
+-
+list
+-
+sstream
+-
+unistd.h
+-
+ctime
+-
+stdarg.h
+-
+iostream
+-
+
+/mnt/e/tencent/project/log_file/src/main.cpp
+logfile.hpp
+/mnt/e/tencent/project/log_file/src/logfile.hpp
+pthread.h
+-
+

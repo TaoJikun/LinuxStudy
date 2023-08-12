@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/aeneas/Desktop/test/heartbeat/test_master/master.cpp
+iostream
+/home/aeneas/Desktop/test/heartbeat/test_master/iostream
+unistd.h
+/home/aeneas/Desktop/test/heartbeat/test_master/unistd.h
+cstring
+/home/aeneas/Desktop/test/heartbeat/test_master/cstring
+arpa/inet.h
+/home/aeneas/Desktop/test/heartbeat/test_master/arpa/inet.h
+sys/epoll.h
+/home/aeneas/Desktop/test/heartbeat/test_master/sys/epoll.h
+cerrno
+/home/aeneas/Desktop/test/heartbeat/test_master/cerrno
+cctype
+/home/aeneas/Desktop/test/heartbeat/test_master/cctype
+fcntl.h
+/home/aeneas/Desktop/test/heartbeat/test_master/fcntl.h
+json.hpp
+/home/aeneas/Desktop/test/heartbeat/test_master/json.hpp
+signal.h
+/home/aeneas/Desktop/test/heartbeat/test_master/signal.h
+

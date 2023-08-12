@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/cache_server.dir/cache_server.cpp.o  -o cache_server  -lpthread 

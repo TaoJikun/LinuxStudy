@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.14)
+project(master)
+set(CMAKE_CXX_STANDARD 14)
+add_executable(master master.cpp)
+TARGET_LINK_LIBRARIES(master)
+install(TARGETS master RUNTIME DESTINATION bin)

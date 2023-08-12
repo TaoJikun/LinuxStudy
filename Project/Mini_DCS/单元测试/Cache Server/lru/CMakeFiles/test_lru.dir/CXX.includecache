@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/aeneas/Desktop/test/lru/LRU.hpp
+unordered_map
+-
+cstring
+-
+
+/home/aeneas/Desktop/test/lru/test_lru.cpp
+gtest/gtest.h
+/home/aeneas/Desktop/test/lru/gtest/gtest.h
+LRU.hpp
+/home/aeneas/Desktop/test/lru/LRU.hpp
+

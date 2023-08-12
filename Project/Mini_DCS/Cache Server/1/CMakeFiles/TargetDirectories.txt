@@ -1,0 +1,7 @@
+/home/lwcui/1216/CacheServer1215/1/CMakeFiles/install/strip.dir
+/home/lwcui/1216/CacheServer1215/1/CMakeFiles/install/local.dir
+/home/lwcui/1216/CacheServer1215/1/CMakeFiles/install.dir
+/home/lwcui/1216/CacheServer1215/1/CMakeFiles/list_install_components.dir
+/home/lwcui/1216/CacheServer1215/1/CMakeFiles/rebuild_cache.dir
+/home/lwcui/1216/CacheServer1215/1/CMakeFiles/edit_cache.dir
+/home/lwcui/1216/CacheServer1215/1/CMakeFiles/cache_server.dir

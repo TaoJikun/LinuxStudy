@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.14)
+project(clienttcp)
+set(CMAKE_CXX_STANDARD 14)
+add_executable(clienttcp clienttcp.cpp)
+TARGET_LINK_LIBRARIES(clienttcp)
+install(TARGETS clienttcp RUNTIME DESTINATION bin)

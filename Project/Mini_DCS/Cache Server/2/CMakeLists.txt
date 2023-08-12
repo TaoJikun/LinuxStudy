@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.14)
+project(cache_server)
+set(CMAKE_CXX_STANDARD 14)
+add_executable(cache_server cache_server.cpp)
+TARGET_LINK_LIBRARIES(cache_server pthread)
+install(TARGETS cache_server RUNTIME DESTINATION bin)

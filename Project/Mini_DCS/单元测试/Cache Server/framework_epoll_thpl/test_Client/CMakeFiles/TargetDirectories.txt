@@ -1,0 +1,7 @@
+/home/aeneas/Desktop/test/framework_epoll_thpl/test_Client/CMakeFiles/install/strip.dir
+/home/aeneas/Desktop/test/framework_epoll_thpl/test_Client/CMakeFiles/install/local.dir
+/home/aeneas/Desktop/test/framework_epoll_thpl/test_Client/CMakeFiles/install.dir
+/home/aeneas/Desktop/test/framework_epoll_thpl/test_Client/CMakeFiles/list_install_components.dir
+/home/aeneas/Desktop/test/framework_epoll_thpl/test_Client/CMakeFiles/rebuild_cache.dir
+/home/aeneas/Desktop/test/framework_epoll_thpl/test_Client/CMakeFiles/edit_cache.dir
+/home/aeneas/Desktop/test/framework_epoll_thpl/test_Client/CMakeFiles/clienttcp.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/main.out.dir/src/main.cpp.o  -o ../bin/main.out  -pthread 
