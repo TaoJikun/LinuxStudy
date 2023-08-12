@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/icf/demo_practice/Mini_DCS-master/remote'
+make: Leaving directory '/home/icf/demo_practice/Mini_DCS-master/remote'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+

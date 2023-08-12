@@ -1,0 +1,1 @@
+g++  ./src/heart_beat.cpp  ./src/netServer.cpp  ./common/request.cpp  ./common/threadPool.cpp ./common/timer.cpp ./common/task.h ./common/epoll.cpp ./common/connection.cpp ./common/buffer.cpp ./common/nodeConHash.cpp  ./common/response.cpp ./common/consistentHash.cpp   ./src/manager.cpp ./src/main.cpp  ./common/socketTool.cpp  -o cacheServer -lpthread -D_GLIBCXX_USE_CXX11_ABI=0
